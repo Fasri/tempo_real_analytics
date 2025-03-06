@@ -7,7 +7,7 @@ def transform_tempo_real():
     from datetime import datetime
 
     # Encontrar o arquivo mais recente na pasta
-    list_of_files = glob.glob('C:\Users\lipea\Documents\Projetos\tempo_real\tempo_real\data\*.xlsx')
+    list_of_files = glob.glob(r'C:\Users\lipea\Documents\Projetos\tempo_real\tempo_real\data\*.xlsx')
     file_path = max(list_of_files, key=os.path.getctime)
 
     # Carregar a planilha e excluir a primeira linha
