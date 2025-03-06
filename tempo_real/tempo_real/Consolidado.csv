@@ -1,8 +1,11 @@
 nucleo,processo,vara,data,prioridades,dias
 5ª CC,0000058-57.2023.8.17.2100,1ª Vara Cível da Comarca de Abreu e Lima,21/02/2025,Sem prioridade,13
 5ª CC,0000304-29.2018.8.17.2100,1ª Vara Cível da Comarca de Abreu e Lima,25/02/2025,Sem prioridade,9
+5ª CC,0000649-82.2024.8.17.2100,1ª Vara Cível da Comarca de Abreu e Lima,06/03/2025,Prioridade Legal,0
 4ª CCJ,0000888-62.2019.8.17.2100,1ª Vara Cível da Comarca de Abreu e Lima,27/02/2025,Sem prioridade,6
+5ª CC,0000966-22.2020.8.17.2100,1ª Vara Cível da Comarca de Abreu e Lima,06/03/2025,Prioridade Legal,0
 5ª CC,0002332-28.2022.8.17.2100,1ª Vara Cível da Comarca de Abreu e Lima,24/02/2025,Prioridade Legal,10
+5ª CC,0002406-58.2017.8.17.2100,1ª Vara Cível da Comarca de Abreu e Lima,06/03/2025,Sem prioridade,0
 4ª CCJ,0003126-49.2022.8.17.2100,1ª Vara Cível da Comarca de Abreu e Lima,06/02/2025,Sem prioridade,27
 4ª CCJ,0001089-94.2006.8.17.0100,2ª Vara Cível da Comarca de Abreu e Lima,12/02/2025,Sem prioridade,22
 4ª CCJ,0003035-90.2021.8.17.2100,2ª Vara Cível da Comarca de Abreu e Lima,14/02/2025,Sem prioridade,20
@@ -73,7 +76,7 @@ nucleo,processo,vara,data,prioridades,dias
 7ª CC,0000400-76.2021.8.17.2120,Vara Única da Comarca de Afrânio,25/02/2025,Sem prioridade,9
 6ª CCJ,0000439-10.2020.8.17.2120,Vara Única da Comarca de Afrânio,25/02/2025,Prioridade Legal,9
 6ª CCJ,0000514-20.2018.8.17.2120,Vara Única da Comarca de Afrânio,26/02/2025,Prioridade Legal,8
-7ª CC,0000566-80.2010.8.17.0120,Vara Única da Comarca de Afrânio,20/02/2025,Sem prioridade,13
+7ª CC,0000566-80.2010.8.17.0120,Vara Única da Comarca de Afrânio,20/02/2025,Sem prioridade,14
 7ª CC,0000672-42.2010.8.17.0120,Vara Única da Comarca de Afrânio,20/02/2025,Sem prioridade,14
 7ª CC,0000739-94.2016.8.17.0120,Vara Única da Comarca de Afrânio,24/02/2025,Sem prioridade,10
 5ª CCJ,0000550-22.2024.8.17.2130,Vara Única da Comarca de Agrestina,18/02/2025,Sem prioridade,15
@@ -123,8 +126,8 @@ nucleo,processo,vara,data,prioridades,dias
 4ª CCJ,0001480-22.2021.8.17.2170,Vara Única da Comarca de Aliança,26/02/2025,Sem prioridade,7
 6ª CC,0000012-23.2014.8.17.0180,Vara Única da Comarca de Altinho,24/02/2025,Sem prioridade,10
 6ª CC,0000064-23.2020.8.17.2180,Vara Única da Comarca de Altinho,24/02/2025,Sem prioridade,10
-5ª CCJ,0000164-75.2020.8.17.2180,Vara Única da Comarca de Altinho,24/02/2025,Sem prioridade,9
-5ª CCJ,0000174-22.2020.8.17.2180,Vara Única da Comarca de Altinho,24/02/2025,Sem prioridade,9
+5ª CCJ,0000164-75.2020.8.17.2180,Vara Única da Comarca de Altinho,24/02/2025,Sem prioridade,10
+5ª CCJ,0000174-22.2020.8.17.2180,Vara Única da Comarca de Altinho,24/02/2025,Sem prioridade,10
 5ª CCJ,0000330-05.2023.8.17.2180,Vara Única da Comarca de Altinho,24/02/2025,Sem prioridade,10
 6ª CC,0000708-24.2024.8.17.2180,Vara Única da Comarca de Altinho,25/02/2025,Sem prioridade,9
 4ª CCJ,0000095-18.2017.8.17.3160,Vara Única da Comarca de Amaraji,26/02/2025,Sem prioridade,7
@@ -185,7 +188,7 @@ nucleo,processo,vara,data,prioridades,dias
 7ª CC,0006076-25.2023.8.17.2220,2ª Vara Cível da Comarca de Arcoverde,25/02/2025,Sem prioridade,9
 7ª CC,0007620-48.2023.8.17.2220,2ª Vara Cível da Comarca de Arcoverde,24/02/2025,Sem prioridade,10
 7ª CC,0007748-68.2023.8.17.2220,2ª Vara Cível da Comarca de Arcoverde,26/02/2025,Prioridade Legal,8
-4ª CCJ,0000348-42.2012.8.17.0230,Vara Única da Comarca de Barreiros,27/02/2025,Sem prioridade,6
+4ª CCJ,0000348-42.2012.8.17.0230,Vara Única da Comarca de Barreiros,27/02/2025,Sem prioridade,7
 4ª CCJ,0001087-44.2014.8.17.0230,Vara Única da Comarca de Barreiros,06/02/2025,Sem prioridade,28
 5ª CCJ,0000198-38.2019.8.17.2260,1ª Vara Cível da Comarca de Belo Jardim,26/02/2025,Sem prioridade,8
 5ª CCJ,0000551-73.2022.8.17.2260,1ª Vara Cível da Comarca de Belo Jardim,24/02/2025,Sem prioridade,10
@@ -206,7 +209,7 @@ nucleo,processo,vara,data,prioridades,dias
 7ª CC,0000233-96.2017.8.17.2250,Vara Única da Comarca de Belém São Francisco,26/02/2025,Sem prioridade,8
 6ª CCJ,0000274-79.1999.8.17.0250,Vara Única da Comarca de Belém São Francisco,28/02/2025,Sem prioridade,6
 6ª CCJ,0000319-24.2015.8.17.0250,Vara Única da Comarca de Belém São Francisco,20/02/2025,Sem prioridade,14
-6ª CCJ,0000583-07.2016.8.17.0250,Vara Única da Comarca de Belém São Francisco,18/02/2025,Sem prioridade,15
+6ª CCJ,0000583-07.2016.8.17.0250,Vara Única da Comarca de Belém São Francisco,18/02/2025,Sem prioridade,16
 6ª CCJ,0000674-04.2022.8.17.2250,Vara Única da Comarca de Belém São Francisco,29/01/2025,Prioridade Legal,36
 6ª CCJ,0000697-47.2022.8.17.2250,Vara Única da Comarca de Belém São Francisco,29/01/2025,Prioridade Legal,36
 7ª CC,0000750-34.2010.8.17.0250,Vara Única da Comarca de Belém São Francisco,26/02/2025,Sem prioridade,8
@@ -257,7 +260,7 @@ nucleo,processo,vara,data,prioridades,dias
 6ª CC,0002475-37.2019.8.17.0640,2ª Vara da Comarca de Bom Conselho,23/02/2025,Sem prioridade,10
 6ª CC,0040930-18.2021.8.17.8201,2ª Vara da Comarca de Bom Conselho,26/02/2025,Sem prioridade,8
 6ª CC,0000064-27.2008.8.17.0310,Vara Única da Comarca de Bom Jardim,26/02/2025,Sem prioridade,8
-6ª CC,0000100-58.2023.8.17.2310,Vara Única da Comarca de Bom Jardim,25/02/2025,Prioridade Legal,8
+6ª CC,0000100-58.2023.8.17.2310,Vara Única da Comarca de Bom Jardim,25/02/2025,Prioridade Legal,9
 6ª CC,0000211-18.2018.8.17.2310,Vara Única da Comarca de Bom Jardim,24/02/2025,Sem prioridade,10
 6ª CC,0000508-38.2018.8.17.2920,Vara Única da Comarca de Bom Jardim,21/02/2025,Sem prioridade,13
 6ª CC,0000514-27.2021.8.17.2310,Vara Única da Comarca de Bom Jardim,06/03/2025,Prioridade Legal,0
@@ -293,21 +296,20 @@ nucleo,processo,vara,data,prioridades,dias
 5ª CC,0001293-52.2016.8.17.2990,1ª Vara Cível da Comarca do Cabo de Santo Agostinho,28/02/2025,Sem prioridade,6
 5ª CC,0001871-32.2016.8.17.2370,1ª Vara Cível da Comarca do Cabo de Santo Agostinho,27/02/2025,Sem prioridade,7
 5ª CC,0005919-93.2011.8.17.0370,1ª Vara Cível da Comarca do Cabo de Santo Agostinho,28/02/2025,Sem prioridade,6
-4ª CCJ,0022962-08.2021.8.17.2370,1ª Vara Cível da Comarca do Cabo de Santo Agostinho,05/02/2025,Sem prioridade,29
 5ª CC,0029986-24.2020.8.17.2370,1ª Vara Cível da Comarca do Cabo de Santo Agostinho,27/02/2025,Prioridade Legal,7
 4ª CCJ,0001476-30.2022.8.17.2370,2ª Vara Cível da Comarca do Cabo de Santo Agostinho,26/02/2025,Sem prioridade,8
 5ª CC,0004490-51.2024.8.17.2370,2ª Vara Cível da Comarca do Cabo de Santo Agostinho,22/02/2025,Sem prioridade,12
 4ª CCJ,0016810-07.2022.8.17.2370,2ª Vara Cível da Comarca do Cabo de Santo Agostinho,18/02/2025,Prioridade Legal,16
-5ª CC,0023364-21.2023.8.17.2370,2ª Vara Cível da Comarca do Cabo de Santo Agostinho,22/02/2025,Prioridade Legal,11
+5ª CC,0023364-21.2023.8.17.2370,2ª Vara Cível da Comarca do Cabo de Santo Agostinho,22/02/2025,Prioridade Legal,12
 2ª CC,0001678-66.2022.8.17.5810,3ª Vara Criminal da Comarca do Cabo de Santo Agostinho,21/02/2025,Sem prioridade,12
 5ª CC,0000376-40.2022.8.17.2370,3ª Vara Cível da Comarca do Cabo de Santo Agostinho,26/02/2025,Sem prioridade,8
 5ª CC,0001318-39.2014.8.17.0370,3ª Vara Cível da Comarca do Cabo de Santo Agostinho,27/02/2025,Sem prioridade,7
 5ª CC,0001501-19.2017.8.17.2370,3ª Vara Cível da Comarca do Cabo de Santo Agostinho,27/02/2025,Sem prioridade,6
-5ª CC,0010520-73.2022.8.17.2370,3ª Vara Cível da Comarca do Cabo de Santo Agostinho,24/02/2025,Sem prioridade,9
+5ª CC,0010520-73.2022.8.17.2370,3ª Vara Cível da Comarca do Cabo de Santo Agostinho,24/02/2025,Sem prioridade,10
 5ª CC,0010790-97.2022.8.17.2370,3ª Vara Cível da Comarca do Cabo de Santo Agostinho,21/02/2025,Sem prioridade,13
 4ª CCJ,0023122-62.2023.8.17.2370,3ª Vara Cível da Comarca do Cabo de Santo Agostinho,26/02/2025,Prioridade Legal,8
 4ª CCJ,0041114-75.2019.8.17.2370,3ª Vara Cível da Comarca do Cabo de Santo Agostinho,13/02/2025,Sem prioridade,21
-5ª CC,0002013-89.2023.8.17.2370,4ª Vara Cível da Comarca do Cabo de Santo Agostinho,27/02/2025,Prioridade Legal,6
+5ª CC,0002013-89.2023.8.17.2370,4ª Vara Cível da Comarca do Cabo de Santo Agostinho,27/02/2025,Prioridade Legal,7
 5ª CC,0004641-17.2024.8.17.2370,4ª Vara Cível da Comarca do Cabo de Santo Agostinho,26/02/2025,Sem prioridade,8
 5ª CC,0007856-69.2022.8.17.2370,4ª Vara Cível da Comarca do Cabo de Santo Agostinho,24/02/2025,Sem prioridade,10
 5ª CC,0011175-79.2021.8.17.2370,4ª Vara Cível da Comarca do Cabo de Santo Agostinho,01/03/2025,Sem prioridade,5
@@ -323,20 +325,20 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CCJ,0000014-48.2016.8.17.2370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,26/02/2025,Prioridade Legal,8
 4ª CC,0000118-74.2015.8.17.2370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,22/02/2025,Sem prioridade,12
 4ª CC,0000411-35.2012.8.17.0370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,24/02/2025,Sem prioridade,10
-4ª CC,0001330-96.2016.8.17.2370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,26/02/2025,Sem prioridade,7
+4ª CC,0001330-96.2016.8.17.2370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,26/02/2025,Sem prioridade,8
 4ª CC,0002265-68.2018.8.17.2370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,27/02/2025,Sem prioridade,7
 4ª CC,0002634-68.2006.8.17.0370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,27/02/2025,Sem prioridade,7
 4ª CC,0003322-88.2010.8.17.0370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,20/02/2025,Sem prioridade,14
 4ª CC,0006042-33.2007.8.17.0370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,27/02/2025,Sem prioridade,7
 2ª CCJ,0006106-72.2009.8.17.0370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,27/02/2025,Sem prioridade,7
-4ª CC,0006165-50.2015.8.17.0370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,20/02/2025,Sem prioridade,13
+4ª CC,0006165-50.2015.8.17.0370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,20/02/2025,Sem prioridade,14
 2ª CCJ,0007398-19.2014.8.17.0370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,21/02/2025,Sem prioridade,13
 4ª CC,0011204-67.2011.8.17.0370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,26/02/2025,Sem prioridade,8
 4ª CC,0026056-32.2019.8.17.2370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,27/02/2025,Sem prioridade,7
 2ª CCJ,0031508-52.2021.8.17.2370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,21/02/2025,Sem prioridade,13
 4ª CC,0035278-24.2019.8.17.2370,Vara da Fazenda Pública da Comarca do Cabo de Santo Agostinho,26/02/2025,Sem prioridade,8
 7ª CC,0000069-89.2020.8.17.1260,1ª Vara da Comarca de Cabrobó,20/02/2025,Sem prioridade,14
-6ª CCJ,0000863-82.2019.8.17.2380,1ª Vara da Comarca de Cabrobó,04/02/2025,Prioridade Legal,29
+6ª CCJ,0000863-82.2019.8.17.2380,1ª Vara da Comarca de Cabrobó,04/02/2025,Prioridade Legal,30
 6ª CCJ,0000974-57.2016.8.17.0380,1ª Vara da Comarca de Cabrobó,17/02/2025,Sem prioridade,17
 6ª CCJ,0001146-72.2011.8.17.0380,1ª Vara da Comarca de Cabrobó,07/02/2025,Sem prioridade,27
 7ª CC,0003036-40.2023.8.17.2380,1ª Vara da Comarca de Cabrobó,24/02/2025,Sem prioridade,9
@@ -361,7 +363,7 @@ nucleo,processo,vara,data,prioridades,dias
 7ª CC,0002032-02.2022.8.17.2380,2ª Vara da Comarca de Cabrobó,20/02/2025,Sem prioridade,14
 7ª CC,0002595-59.2023.8.17.2380,2ª Vara da Comarca de Cabrobó,27/02/2025,Prioridade Legal,7
 6ª CC,0000024-19.1996.8.17.0390,Vara Única da Comarca de Cachoeirinha,24/02/2025,Sem prioridade,9
-6ª CC,0000045-61.2023.8.17.2390,Vara Única da Comarca de Cachoeirinha,20/02/2025,Prioridade Legal,13
+6ª CC,0000045-61.2023.8.17.2390,Vara Única da Comarca de Cachoeirinha,20/02/2025,Prioridade Legal,14
 6ª CC,0000052-79.1999.8.17.0390,Vara Única da Comarca de Cachoeirinha,24/02/2025,Sem prioridade,9
 6ª CC,0000063-35.2004.8.17.0390,Vara Única da Comarca de Cachoeirinha,24/02/2025,Sem prioridade,9
 6ª CC,0000148-93.2019.8.17.0390,Vara Única da Comarca de Cachoeirinha,21/02/2025,Sem prioridade,13
@@ -474,7 +476,7 @@ nucleo,processo,vara,data,prioridades,dias
 3ª CC,0004429-59.2021.8.17.2480,1ª Vara Cível da Comarca de Caruaru,26/02/2025,Prioridade Legal,8
 3ª CC,0005783-85.2022.8.17.2480,1ª Vara Cível da Comarca de Caruaru,25/02/2025,Sem prioridade,9
 1ª CCJ,0006321-76.2016.8.17.2480,1ª Vara Cível da Comarca de Caruaru,26/02/2025,Sem prioridade,8
-3ª CC,0007490-59.2020.8.17.2480,1ª Vara Cível da Comarca de Caruaru,26/02/2025,Sem prioridade,7
+3ª CC,0007490-59.2020.8.17.2480,1ª Vara Cível da Comarca de Caruaru,26/02/2025,Sem prioridade,8
 3ª CC,0008656-24.2023.8.17.2480,1ª Vara Cível da Comarca de Caruaru,25/02/2025,Sem prioridade,9
 3ª CC,0014896-92.2024.8.17.2480,1ª Vara Cível da Comarca de Caruaru,28/02/2025,Sem prioridade,6
 3ª CC,0018138-59.2024.8.17.2480,1ª Vara Cível da Comarca de Caruaru,25/02/2025,Sem prioridade,9
@@ -519,9 +521,9 @@ nucleo,processo,vara,data,prioridades,dias
 4ª CC,0007177-93.2023.8.17.2480,2ª Vara da Fazenda Pública da Comarca de Caruaru,26/02/2025,Sem prioridade,8
 2ª CCJ,0007192-04.2019.8.17.2480,2ª Vara da Fazenda Pública da Comarca de Caruaru,01/03/2025,Prioridade Legal,5
 2ª CCJ,0007635-52.2019.8.17.2480,2ª Vara da Fazenda Pública da Comarca de Caruaru,16/02/2025,Sem prioridade,18
-2ª CCJ,0008183-43.2020.8.17.2480,2ª Vara da Fazenda Pública da Comarca de Caruaru,18/02/2025,Sem prioridade,15
+2ª CCJ,0008183-43.2020.8.17.2480,2ª Vara da Fazenda Pública da Comarca de Caruaru,18/02/2025,Sem prioridade,16
 2ª CCJ,0008653-41.2012.8.17.0480,2ª Vara da Fazenda Pública da Comarca de Caruaru,17/02/2025,Sem prioridade,17
-2ª CCJ,0009410-29.2024.8.17.2480,2ª Vara da Fazenda Pública da Comarca de Caruaru,18/02/2025,Sem prioridade,15
+2ª CCJ,0009410-29.2024.8.17.2480,2ª Vara da Fazenda Pública da Comarca de Caruaru,18/02/2025,Sem prioridade,16
 4ª CC,0009902-89.2022.8.17.2480,2ª Vara da Fazenda Pública da Comarca de Caruaru,26/02/2025,Sem prioridade,8
 2ª CCJ,0010172-22.2010.8.17.0480,2ª Vara da Fazenda Pública da Comarca de Caruaru,25/02/2025,Sem prioridade,9
 2ª CCJ,0011672-21.2013.8.17.0480,2ª Vara da Fazenda Pública da Comarca de Caruaru,26/02/2025,Sem prioridade,8
@@ -538,9 +540,9 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CC,0000026-61.2021.8.17.4480,3ª Vara Criminal da Comarca de Caruaru,27/02/2025,Sem prioridade,7
 2ª CC,0000365-22.2024.8.17.5480,3ª Vara Criminal da Comarca de Caruaru,24/02/2025,Sem prioridade,10
 2ª CC,0000511-33.2021.8.17.0480,3ª Vara Criminal da Comarca de Caruaru,24/02/2025,Sem prioridade,10
-2ª CC,0000520-92.2021.8.17.0480,3ª Vara Criminal da Comarca de Caruaru,24/02/2025,Sem prioridade,9
+2ª CC,0000520-92.2021.8.17.0480,3ª Vara Criminal da Comarca de Caruaru,24/02/2025,Sem prioridade,10
 2ª CC,0000709-37.2023.8.17.5480,3ª Vara Criminal da Comarca de Caruaru,23/02/2025,Sem prioridade,11
-2ª CC,0001270-65.2019.8.17.0480,3ª Vara Criminal da Comarca de Caruaru,23/02/2025,Sem prioridade,10
+2ª CC,0001270-65.2019.8.17.0480,3ª Vara Criminal da Comarca de Caruaru,23/02/2025,Sem prioridade,11
 2ª CC,0001477-94.2022.8.17.5480,3ª Vara Criminal da Comarca de Caruaru,23/02/2025,Sem prioridade,11
 2ª CC,0001669-31.2018.8.17.0480,3ª Vara Criminal da Comarca de Caruaru,27/02/2025,Sem prioridade,7
 2ª CC,0002753-43.2013.8.17.0480,3ª Vara Criminal da Comarca de Caruaru,24/02/2025,Sem prioridade,10
@@ -576,6 +578,7 @@ nucleo,processo,vara,data,prioridades,dias
 3ª CC,0002827-67.2020.8.17.2480,4ª Vara Cível da Comarca de Caruaru,25/02/2025,Super prioridade,9
 3ª CC,0003056-61.2019.8.17.2480,4ª Vara Cível da Comarca de Caruaru,25/02/2025,Sem prioridade,9
 1ª CCJ,0003314-67.2013.8.17.0480,4ª Vara Cível da Comarca de Caruaru,21/02/2025,Sem prioridade,13
+3ª CC,0005684-18.2022.8.17.2480,4ª Vara Cível da Comarca de Caruaru,06/03/2025,Sem prioridade,0
 3ª CC,0006174-06.2023.8.17.2480,4ª Vara Cível da Comarca de Caruaru,25/02/2025,Sem prioridade,9
 3ª CC,0006594-75.2015.8.17.0480,4ª Vara Cível da Comarca de Caruaru,17/02/2025,Sem prioridade,17
 3ª CC,0007752-77.2018.8.17.2480,4ª Vara Cível da Comarca de Caruaru,19/02/2025,Sem prioridade,15
@@ -594,10 +597,10 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CCJ,0001008-43.2022.8.17.8230,Juizado Especial Cível e das Relações de Consumo de Caruaru - Turno Manhã - 08:00h às 14:00h,27/02/2025,Prioridade Legal,7
 4ª CCJ,0000058-85.2022.8.17.2490,Vara Única da Comarca de Catende,19/02/2025,Sem prioridade,14
 4ª CCJ,0000244-50.2018.8.17.2490,Vara Única da Comarca de Catende,12/02/2025,Sem prioridade,22
-4ª CCJ,0000262-66.2021.8.17.2490,Vara Única da Comarca de Catende,27/02/2025,Sem prioridade,6
+4ª CCJ,0000262-66.2021.8.17.2490,Vara Única da Comarca de Catende,27/02/2025,Sem prioridade,7
 4ª CCJ,0000499-71.2019.8.17.2490,Vara Única da Comarca de Catende,26/02/2025,Prioridade Legal,8
 5ª CC,0000702-92.2014.8.17.0490,Vara Única da Comarca de Catende,28/02/2025,Sem prioridade,5
-4ª CCJ,0001063-79.2021.8.17.2490,Vara Única da Comarca de Catende,19/02/2025,Prioridade Legal,14
+4ª CCJ,0001063-79.2021.8.17.2490,Vara Única da Comarca de Catende,19/02/2025,Prioridade Legal,15
 5ª CC,0001072-07.2022.8.17.2490,Vara Única da Comarca de Catende,25/02/2025,Sem prioridade,9
 5ª CC,0000070-37.2024.8.17.5980,Vara Única da Comarca de Condado,24/02/2025,Prioridade Legal,10
 5ª CC,0000126-09.2021.8.17.2510,Vara Única da Comarca de Condado,25/02/2025,Prioridade Legal,9
@@ -622,7 +625,7 @@ nucleo,processo,vara,data,prioridades,dias
 6ª CC,0000091-80.2019.8.17.0550,Vara Única da Comarca de Cupira,24/02/2025,Sem prioridade,10
 5ª CCJ,0000174-24.2004.8.17.0550,Vara Única da Comarca de Cupira,27/02/2025,Sem prioridade,7
 6ª CC,0000610-65.2013.8.17.0550,Vara Única da Comarca de Cupira,20/02/2025,Prioridade Legal,13
-6ª CC,0000751-49.2023.8.17.2550,Vara Única da Comarca de Cupira,25/02/2025,Sem prioridade,8
+6ª CC,0000751-49.2023.8.17.2550,Vara Única da Comarca de Cupira,25/02/2025,Sem prioridade,9
 6ª CC,0000828-59.2014.8.17.0550,Vara Única da Comarca de Cupira,24/02/2025,Sem prioridade,10
 6ª CC,0000907-43.2011.8.17.0550,Vara Única da Comarca de Cupira,24/02/2025,Sem prioridade,10
 7ª CC,0000157-27.2019.8.17.0270,1ª Vara da Comarca de Custódia,01/03/2025,Sem prioridade,5
@@ -635,7 +638,7 @@ nucleo,processo,vara,data,prioridades,dias
 5ª CC,0000449-04.2016.8.17.2570,1ª Vara da Comarca de Escada,26/02/2025,Sem prioridade,8
 4ª CCJ,0000775-56.2019.8.17.2570,1ª Vara da Comarca de Escada,27/02/2025,Prioridade Legal,7
 5ª CC,0002556-11.2022.8.17.2570,1ª Vara da Comarca de Escada,26/02/2025,Prioridade Legal,8
-4ª CCJ,0014177-97.2021.8.17.2001,1ª Vara da Comarca de Escada,24/02/2025,Sem prioridade,9
+4ª CCJ,0014177-97.2021.8.17.2001,1ª Vara da Comarca de Escada,24/02/2025,Sem prioridade,10
 5ª CC,0000268-56.2023.8.17.2570,2ª Vara da Comarca de Escada,21/02/2025,Sem prioridade,13
 4ª CCJ,0000457-39.2020.8.17.2570,2ª Vara da Comarca de Escada,20/02/2025,Sem prioridade,14
 5ª CC,0000741-04.2018.8.17.0570,2ª Vara da Comarca de Escada,22/02/2025,Sem prioridade,12
@@ -720,7 +723,7 @@ nucleo,processo,vara,data,prioridades,dias
 3ª CC,0004293-38.2019.8.17.2640,3ª Vara Cível da Comarca de Garanhuns,26/02/2025,Prioridade Legal,8
 3ª CC,0008715-51.2022.8.17.2640,3ª Vara Cível da Comarca de Garanhuns,26/02/2025,Sem prioridade,8
 2ª CCJ,0000369-48.2021.8.17.2640,Vara da Fazenda Pública da Comarca de Garanhuns,21/02/2025,Prioridade Legal,13
-4ª CC,0001161-31.2023.8.17.2640,Vara da Fazenda Pública da Comarca de Garanhuns,25/02/2025,Sem prioridade,8
+4ª CC,0001161-31.2023.8.17.2640,Vara da Fazenda Pública da Comarca de Garanhuns,25/02/2025,Sem prioridade,9
 2ª CCJ,0001527-80.2017.8.17.2640,Vara da Fazenda Pública da Comarca de Garanhuns,26/02/2025,Sem prioridade,8
 2ª CCJ,0001607-05.2021.8.17.2640,Vara da Fazenda Pública da Comarca de Garanhuns,26/02/2025,Sem prioridade,8
 2ª CCJ,0001811-20.2019.8.17.2640,Vara da Fazenda Pública da Comarca de Garanhuns,26/02/2025,Sem prioridade,8
@@ -739,26 +742,26 @@ nucleo,processo,vara,data,prioridades,dias
 5ª CC,0003605-08.2024.8.17.2218,1ª Vara Cível da Comarca de Goiana,26/02/2025,Prioridade Legal,7
 4ª CCJ,0000496-20.2023.8.17.2218,2ª Vara Cível da Comarca de Goiana,19/02/2025,Sem prioridade,15
 4ª CCJ,0000688-50.2023.8.17.2218,2ª Vara Cível da Comarca de Goiana,06/02/2025,Sem prioridade,28
-4ª CCJ,0000744-20.2022.8.17.2218,2ª Vara Cível da Comarca de Goiana,23/02/2025,Prioridade Legal,10
+4ª CCJ,0000744-20.2022.8.17.2218,2ª Vara Cível da Comarca de Goiana,23/02/2025,Prioridade Legal,11
 4ª CCJ,0002945-86.2011.8.17.0660,2ª Vara Cível da Comarca de Goiana,07/02/2025,Prioridade Legal,26
 5ª CC,0003566-11.2024.8.17.2218,2ª Vara Cível da Comarca de Goiana,03/03/2025,Prioridade Legal,3
 2ª CC,0003615-23.2022.8.17.2218,Vara Criminal da Comarca de Goiana,06/03/2025,Sem prioridade,0
-2ª CC,0004284-42.2023.8.17.2218,Vara Criminal da Comarca de Goiana,24/02/2025,Sem prioridade,9
+2ª CC,0004284-42.2023.8.17.2218,Vara Criminal da Comarca de Goiana,24/02/2025,Sem prioridade,10
 6ª CC,0000002-62.2009.8.17.0500,1ª Vara Cível da Comarca de Gravatá,25/02/2025,Sem prioridade,9
 6ª CC,0000027-10.2022.8.17.2670,1ª Vara Cível da Comarca de Gravatá,26/02/2025,Sem prioridade,8
 6ª CC,0000116-63.2019.8.17.2500,1ª Vara Cível da Comarca de Gravatá,22/02/2025,Sem prioridade,11
 6ª CC,0000137-82.2017.8.17.2670,1ª Vara Cível da Comarca de Gravatá,26/02/2025,Sem prioridade,8
 6ª CC,0000202-72.2020.8.17.2670,1ª Vara Cível da Comarca de Gravatá,25/02/2025,Sem prioridade,9
-6ª CC,0000256-29.2021.8.17.2500,1ª Vara Cível da Comarca de Gravatá,25/02/2025,Sem prioridade,8
+6ª CC,0000256-29.2021.8.17.2500,1ª Vara Cível da Comarca de Gravatá,25/02/2025,Sem prioridade,9
 6ª CC,0000715-56.2002.8.17.0670,1ª Vara Cível da Comarca de Gravatá,27/02/2025,Sem prioridade,7
 5ª CCJ,0001041-68.2018.8.17.2670,1ª Vara Cível da Comarca de Gravatá,24/02/2025,Sem prioridade,9
 5ª CCJ,0001103-74.2019.8.17.2670,1ª Vara Cível da Comarca de Gravatá,24/02/2025,Sem prioridade,9
-6ª CC,0001252-32.2014.8.17.0670,1ª Vara Cível da Comarca de Gravatá,27/02/2025,Super prioridade,6
+6ª CC,0001252-32.2014.8.17.0670,1ª Vara Cível da Comarca de Gravatá,27/02/2025,Super prioridade,7
 6ª CC,0001363-83.2021.8.17.2670,1ª Vara Cível da Comarca de Gravatá,25/02/2025,Sem prioridade,9
 5ª CCJ,0001426-85.2007.8.17.0670,1ª Vara Cível da Comarca de Gravatá,17/02/2025,Sem prioridade,16
-6ª CC,0001605-43.2012.8.17.0670,1ª Vara Cível da Comarca de Gravatá,27/02/2025,Super prioridade,6
+6ª CC,0001605-43.2012.8.17.0670,1ª Vara Cível da Comarca de Gravatá,27/02/2025,Super prioridade,7
 6ª CC,0001760-80.2011.8.17.0670,1ª Vara Cível da Comarca de Gravatá,21/02/2025,Sem prioridade,12
-6ª CC,0002490-91.2011.8.17.0670,1ª Vara Cível da Comarca de Gravatá,27/02/2025,Super prioridade,6
+6ª CC,0002490-91.2011.8.17.0670,1ª Vara Cível da Comarca de Gravatá,27/02/2025,Super prioridade,7
 6ª CC,0002671-52.2024.8.17.2670,1ª Vara Cível da Comarca de Gravatá,26/02/2025,Sem prioridade,8
 6ª CC,0002876-24.2011.8.17.0670,1ª Vara Cível da Comarca de Gravatá,27/02/2025,Sem prioridade,6
 6ª CC,0003504-41.2022.8.17.2670,1ª Vara Cível da Comarca de Gravatá,26/02/2025,Sem prioridade,8
@@ -797,13 +800,13 @@ nucleo,processo,vara,data,prioridades,dias
 5ª CC,0001860-11.2020.8.17.2710,1ª Vara Cível da Comarca de Igarassu,27/02/2025,Sem prioridade,7
 5ª CC,0001918-77.2021.8.17.2710,1ª Vara Cível da Comarca de Igarassu,25/02/2025,Prioridade Legal,9
 5ª CC,0002014-63.2019.8.17.2710,1ª Vara Cível da Comarca de Igarassu,27/02/2025,Prioridade Legal,7
-5ª CC,0002060-52.2019.8.17.2710,1ª Vara Cível da Comarca de Igarassu,05/03/2025,Prioridade Legal,0
+5ª CC,0002060-52.2019.8.17.2710,1ª Vara Cível da Comarca de Igarassu,05/03/2025,Prioridade Legal,1
 5ª CC,0004534-25.2021.8.17.2710,1ª Vara Cível da Comarca de Igarassu,05/03/2025,Sem prioridade,1
 5ª CC,0005944-84.2022.8.17.2710,1ª Vara Cível da Comarca de Igarassu,05/03/2025,Sem prioridade,1
 4ª CCJ,0006476-24.2023.8.17.2710,1ª Vara Cível da Comarca de Igarassu,14/02/2025,Prioridade Legal,20
 5ª CC,0009331-73.2023.8.17.2710,1ª Vara Cível da Comarca de Igarassu,28/02/2025,Sem prioridade,6
 5ª CC,0001237-05.2024.8.17.2710,2ª Vara Cível da Comarca de Igarassu,27/02/2025,Prioridade Legal,7
-4ª CCJ,0001568-21.2023.8.17.2710,2ª Vara Cível da Comarca de Igarassu,26/02/2025,Sem prioridade,7
+4ª CCJ,0001568-21.2023.8.17.2710,2ª Vara Cível da Comarca de Igarassu,26/02/2025,Sem prioridade,8
 5ª CC,0007010-02.2022.8.17.2710,2ª Vara Cível da Comarca de Igarassu,27/02/2025,Sem prioridade,7
 2ª CC,0003231-29.2020.8.17.0990,Vara Criminal da Comarca de Igarassu,27/02/2025,Sem prioridade,7
 2ª CC,0005537-10.2016.8.17.0990,Vara Criminal da Comarca de Igarassu,27/02/2025,Sem prioridade,7
@@ -817,17 +820,17 @@ nucleo,processo,vara,data,prioridades,dias
 7ª CC,0000889-59.2021.8.17.2720,Vara Única da Comarca de Inajá,25/02/2025,Prioridade Legal,9
 5ª CC,0004208-68.2022.8.17.2730,1ª Vara Cível da Comarca de Ipojuca,27/02/2025,Prioridade Legal,7
 5ª CC,0002886-47.2021.8.17.2730,2ª Vara Cível da Comarca de Ipojuca,25/02/2025,Sem prioridade,9
-5ª CC,0004476-88.2023.8.17.2730,2ª Vara Cível da Comarca de Ipojuca,25/02/2025,Sem prioridade,8
+5ª CC,0004476-88.2023.8.17.2730,2ª Vara Cível da Comarca de Ipojuca,25/02/2025,Sem prioridade,9
 4ª CC,0003015-82.2014.8.17.0730,Vara da Fazenda Pública da Comarca de Ipojuca,26/02/2025,Sem prioridade,8
 7ª CC,0000083-03.2017.8.17.2740,Vara Única da Comarca de Ipubi,21/02/2025,Sem prioridade,13
 7ª CC,0000128-31.2022.8.17.2740,Vara Única da Comarca de Ipubi,27/02/2025,Sem prioridade,7
 7ª CC,0000256-62.2007.8.17.0740,Vara Única da Comarca de Ipubi,20/02/2025,Sem prioridade,14
 7ª CC,0000316-63.2018.8.17.2740,Vara Única da Comarca de Ipubi,27/02/2025,Sem prioridade,7
 7ª CC,0000458-34.2010.8.17.0740,Vara Única da Comarca de Ipubi,27/02/2025,Sem prioridade,7
-7ª CC,0000630-96.2024.8.17.2740,Vara Única da Comarca de Ipubi,28/02/2025,Sem prioridade,5
+7ª CC,0000630-96.2024.8.17.2740,Vara Única da Comarca de Ipubi,28/02/2025,Sem prioridade,6
 6ª CCJ,0000883-60.2019.8.17.2740,Vara Única da Comarca de Ipubi,18/02/2025,Sem prioridade,16
 6ª CC,0000019-50.2023.8.17.2750,Vara Única da Comarca de Itaíba,24/02/2025,Sem prioridade,10
-5ª CCJ,0000029-31.2022.8.17.2750,Vara Única da Comarca de Itaíba,23/02/2025,Sem prioridade,10
+5ª CCJ,0000029-31.2022.8.17.2750,Vara Única da Comarca de Itaíba,23/02/2025,Sem prioridade,11
 6ª CC,0000100-38.2019.8.17.2750,Vara Única da Comarca de Itaíba,24/02/2025,Prioridade Legal,10
 6ª CC,0000167-32.2021.8.17.2750,Vara Única da Comarca de Itaíba,26/02/2025,Sem prioridade,8
 6ª CC,0000251-87.2019.8.17.0750,Vara Única da Comarca de Itaíba,27/02/2025,Sem prioridade,7
@@ -864,7 +867,7 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CC,0031791-07.2018.8.17.0810,1ª Vara Criminal da Comarca de Jaboatão dos Guararapes,25/02/2025,Sem prioridade,9
 2ª CC,0032830-49.2012.8.17.0810,1ª Vara Criminal da Comarca de Jaboatão dos Guararapes,27/02/2025,Sem prioridade,7
 2ª CC,0043153-06.2018.8.17.0810,1ª Vara Criminal da Comarca de Jaboatão dos Guararapes,26/02/2025,Sem prioridade,8
-2ª CC,0047733-16.2017.8.17.0810,1ª Vara Criminal da Comarca de Jaboatão dos Guararapes,27/02/2025,Sem prioridade,6
+2ª CC,0047733-16.2017.8.17.0810,1ª Vara Criminal da Comarca de Jaboatão dos Guararapes,27/02/2025,Sem prioridade,7
 3ª CC,0000586-32.2022.8.17.2810,1ª Vara Cível da Comarca de Jaboatão dos Guararapes,25/02/2025,Prioridade Legal,9
 1ª CCJ,0001610-08.2016.8.17.2810,1ª Vara Cível da Comarca de Jaboatão dos Guararapes,21/02/2025,Sem prioridade,13
 3ª CC,0002077-40.2023.8.17.2810,1ª Vara Cível da Comarca de Jaboatão dos Guararapes,25/02/2025,Sem prioridade,9
@@ -968,7 +971,7 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CC,0001237-51.2023.8.17.5810,Vara de Violência Doméstica e Familiar Contra Mulher de Jaboatão dos Guararapes,26/02/2025,Sem prioridade,7
 2ª CC,0001397-06.2022.8.17.4810,Vara de Violência Doméstica e Familiar Contra Mulher de Jaboatão dos Guararapes,25/02/2025,Sem prioridade,9
 4ª CC,0009363-79.2017.8.17.2810,Vara dos Executivos Fiscais da Comarca de Jaboatão dos Guararapes,26/02/2025,Sem prioridade,8
-2ª CCJ,0013670-42.2018.8.17.2810,Vara dos Executivos Fiscais da Comarca de Jaboatão dos Guararapes,26/02/2025,Sem prioridade,7
+2ª CCJ,0013670-42.2018.8.17.2810,Vara dos Executivos Fiscais da Comarca de Jaboatão dos Guararapes,26/02/2025,Sem prioridade,8
 6ª CC,0000034-91.2002.8.17.0830,Vara Única da Comarca de João Alfredo,25/02/2025,Sem prioridade,8
 6ª CC,0000771-73.2023.8.17.2830,Vara Única da Comarca de João Alfredo,26/02/2025,Prioridade Legal,8
 6ª CC,0000851-71.2022.8.17.2830,Vara Única da Comarca de João Alfredo,24/02/2025,Prioridade Legal,10
@@ -1015,8 +1018,8 @@ nucleo,processo,vara,data,prioridades,dias
 6ª CC,0000322-78.2019.8.17.2920,1ª Vara Cível da Comarca de Limoeiro,27/02/2025,Sem prioridade,7
 6ª CC,0001336-63.2020.8.17.2920,1ª Vara Cível da Comarca de Limoeiro,21/02/2025,Prioridade Legal,13
 5ª CCJ,0001534-61.2024.8.17.2920,1ª Vara Cível da Comarca de Limoeiro,25/02/2025,Sem prioridade,9
-5ª CCJ,0001553-77.2018.8.17.2920,1ª Vara Cível da Comarca de Limoeiro,16/02/2025,Sem prioridade,17
-5ª CCJ,0002003-78.2022.8.17.2920,1ª Vara Cível da Comarca de Limoeiro,16/02/2025,Sem prioridade,17
+5ª CCJ,0001553-77.2018.8.17.2920,1ª Vara Cível da Comarca de Limoeiro,16/02/2025,Sem prioridade,18
+5ª CCJ,0002003-78.2022.8.17.2920,1ª Vara Cível da Comarca de Limoeiro,16/02/2025,Sem prioridade,18
 5ª CCJ,0002992-16.2024.8.17.2920,1ª Vara Cível da Comarca de Limoeiro,27/02/2025,Sem prioridade,7
 5ª CCJ,0000037-12.2024.8.17.2920,2ª Vara Cível da Comarca de Limoeiro,28/02/2025,Sem prioridade,6
 5ª CCJ,0000896-33.2021.8.17.2920,2ª Vara Cível da Comarca de Limoeiro,17/02/2025,Sem prioridade,17
@@ -1060,7 +1063,7 @@ nucleo,processo,vara,data,prioridades,dias
 7ª CC,0000387-23.2018.8.17.0620,Vara Única da Comarca de Mirandiba,27/02/2025,Sem prioridade,7
 6ª CCJ,0000390-64.2021.8.17.2950,Vara Única da Comarca de Mirandiba,13/02/2025,Sem prioridade,21
 6ª CCJ,0000403-63.2021.8.17.2950,Vara Única da Comarca de Mirandiba,27/02/2025,Sem prioridade,6
-6ª CCJ,0000406-24.2009.8.17.0950,Vara Única da Comarca de Mirandiba,24/02/2025,Sem prioridade,9
+6ª CCJ,0000406-24.2009.8.17.0950,Vara Única da Comarca de Mirandiba,24/02/2025,Sem prioridade,10
 6ª CCJ,0000409-36.2022.8.17.2950,Vara Única da Comarca de Mirandiba,07/02/2025,Sem prioridade,27
 6ª CCJ,0000411-06.2022.8.17.2950,Vara Única da Comarca de Mirandiba,28/02/2025,Sem prioridade,6
 7ª CC,0000426-04.2024.8.17.2950,Vara Única da Comarca de Mirandiba,26/02/2025,Sem prioridade,8
@@ -1131,7 +1134,7 @@ nucleo,processo,vara,data,prioridades,dias
 4ª CCJ,0001800-30.2014.8.17.0970,1ª Vara Cível da Comarca de Moreno,05/02/2025,Sem prioridade,29
 5ª CC,0000169-68.2022.8.17.4980,Vara Única da Comarca de Nazaré da Mata,24/02/2025,Sem prioridade,10
 4ª CCJ,0000242-31.2019.8.17.2980,Vara Única da Comarca de Nazaré da Mata,15/02/2025,Sem prioridade,19
-4ª CCJ,0000412-61.2023.8.17.2980,Vara Única da Comarca de Nazaré da Mata,27/02/2025,Prioridade Legal,6
+4ª CCJ,0000412-61.2023.8.17.2980,Vara Única da Comarca de Nazaré da Mata,27/02/2025,Prioridade Legal,7
 1ª CCJ,0000360-37.2019.8.17.2970,Núcleo de Justiça 4.0 - Seguro Habitacional - SFH,19/02/2025,Prioridade Legal,15
 1ª CC,0000840-15.2008.8.17.1090,Núcleo de Justiça 4.0 - Seguro Habitacional - SFH,20/02/2025,Sem prioridade,14
 1ª CC,0001390-36.2009.8.17.0100,Núcleo de Justiça 4.0 - Seguro Habitacional - SFH,24/02/2025,Sem prioridade,10
@@ -1159,9 +1162,9 @@ nucleo,processo,vara,data,prioridades,dias
 4ª CC,0005728-30.2020.8.17.2990,1ª Vara da Fazenda Pública da Comarca de Olinda,26/02/2025,Sem prioridade,8
 4ª CC,0011276-70.2019.8.17.2990,1ª Vara da Fazenda Pública da Comarca de Olinda,26/02/2025,Sem prioridade,8
 4ª CC,0011590-50.2018.8.17.2990,1ª Vara da Fazenda Pública da Comarca de Olinda,26/02/2025,Sem prioridade,8
-2ª CCJ,0042596-41.2019.8.17.2990,1ª Vara da Fazenda Pública da Comarca de Olinda,17/02/2025,Prioridade Legal,16
+2ª CCJ,0042596-41.2019.8.17.2990,1ª Vara da Fazenda Pública da Comarca de Olinda,17/02/2025,Prioridade Legal,17
 4ª CC,0123970-16.2018.8.17.2990,1ª Vara da Fazenda Pública da Comarca de Olinda,26/02/2025,Sem prioridade,7
-3ª CCJ,0010702-08.2023.8.17.2990,1ª Vara de Família e Registro Civil da Comarca de Olinda,27/02/2025,Sem prioridade,6
+3ª CCJ,0010702-08.2023.8.17.2990,1ª Vara de Família e Registro Civil da Comarca de Olinda,27/02/2025,Sem prioridade,7
 3ª CCJ,0013468-97.2024.8.17.2990,1ª Vara de Família e Registro Civil da Comarca de Olinda,26/02/2025,Sem prioridade,8
 3ª CCJ,0013835-24.2024.8.17.2990,1ª Vara de Família e Registro Civil da Comarca de Olinda,04/03/2025,Sem prioridade,1
 2ª CC,0000681-95.2019.8.17.0990,2ª Vara Criminal da Comarca de Olinda,25/02/2025,Sem prioridade,8
@@ -1170,11 +1173,11 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CC,0002821-68.2020.8.17.0990,2ª Vara Criminal da Comarca de Olinda,26/02/2025,Sem prioridade,8
 2ª CC,0004986-93.2017.8.17.0990,2ª Vara Criminal da Comarca de Olinda,27/02/2025,Sem prioridade,7
 2ª CC,0006294-96.2019.8.17.0990,2ª Vara Criminal da Comarca de Olinda,26/02/2025,Sem prioridade,8
-1ª CCJ,0000179-39.2020.8.17.2990,2ª Vara Cível da Comarca de Olinda,26/02/2025,Prioridade Legal,7
+1ª CCJ,0000179-39.2020.8.17.2990,2ª Vara Cível da Comarca de Olinda,26/02/2025,Prioridade Legal,8
 4ª CC,0001127-41.1995.8.17.0990,2ª Vara da Fazenda Pública da Comarca de Olinda,27/02/2025,Sem prioridade,7
 2ª CCJ,0001507-67.2021.8.17.2990,2ª Vara da Fazenda Pública da Comarca de Olinda,21/02/2025,Sem prioridade,13
 4ª CC,0002561-40.2010.8.17.0990,2ª Vara da Fazenda Pública da Comarca de Olinda,26/02/2025,Sem prioridade,8
-4ª CC,0005277-73.2018.8.17.2990,2ª Vara da Fazenda Pública da Comarca de Olinda,25/02/2025,Sem prioridade,8
+4ª CC,0005277-73.2018.8.17.2990,2ª Vara da Fazenda Pública da Comarca de Olinda,25/02/2025,Sem prioridade,9
 4ª CC,0017928-40.2018.8.17.2990,2ª Vara da Fazenda Pública da Comarca de Olinda,26/02/2025,Sem prioridade,8
 4ª CC,0051133-26.2019.8.17.2990,2ª Vara da Fazenda Pública da Comarca de Olinda,25/02/2025,Sem prioridade,9
 4ª CC,0057749-17.2019.8.17.2990,2ª Vara da Fazenda Pública da Comarca de Olinda,27/02/2025,Super prioridade,7
@@ -1186,7 +1189,7 @@ nucleo,processo,vara,data,prioridades,dias
 3ª CCJ,0015875-18.2020.8.17.2990,2ª Vara de Família e Registro Civil da Comarca de Olinda,04/03/2025,Prioridade Legal,1
 3ª CCJ,0017239-20.2023.8.17.2990,2ª Vara de Família e Registro Civil da Comarca de Olinda,04/03/2025,Prioridade Legal,1
 3ª CCJ,0028203-72.2023.8.17.2990,2ª Vara de Família e Registro Civil da Comarca de Olinda,04/03/2025,Sem prioridade,1
-3ª CC,0000103-51.1990.8.17.0990,3ª Vara Cível da Comarca de Olinda,28/02/2025,Sem prioridade,5
+3ª CC,0000103-51.1990.8.17.0990,3ª Vara Cível da Comarca de Olinda,28/02/2025,Sem prioridade,6
 1ª CCJ,0001160-44.2015.8.17.2990,3ª Vara Cível da Comarca de Olinda,27/02/2025,Sem prioridade,6
 1ª CCJ,0022972-35.2021.8.17.2990,3ª Vara Cível da Comarca de Olinda,25/02/2025,Sem prioridade,9
 3ª CC,0084066-47.2022.8.17.2990,3ª Vara Cível da Comarca de Olinda,26/02/2025,Sem prioridade,8
@@ -1199,7 +1202,7 @@ nucleo,processo,vara,data,prioridades,dias
 3ª CC,0043942-27.2019.8.17.2990,5ª Vara Cível da Comarca de Olinda,27/02/2025,Sem prioridade,7
 3ª CCJ,0000869-16.2004.8.17.0990,Vara de Sucessões e Registros Públicos da Comarca de Olinda,27/02/2025,Sem prioridade,7
 3ª CC,0001455-66.2024.8.17.2990,Vara de Sucessões e Registros Públicos da Comarca de Olinda,27/02/2025,Prioridade Legal,7
-3ª CCJ,0001776-19.2015.8.17.2990,Vara de Sucessões e Registros Públicos da Comarca de Olinda,26/02/2025,Sem prioridade,7
+3ª CCJ,0001776-19.2015.8.17.2990,Vara de Sucessões e Registros Públicos da Comarca de Olinda,26/02/2025,Sem prioridade,8
 3ª CC,0003319-13.2022.8.17.2990,Vara de Sucessões e Registros Públicos da Comarca de Olinda,27/02/2025,Prioridade Legal,7
 3ª CC,0008379-93.2024.8.17.2990,Vara de Sucessões e Registros Públicos da Comarca de Olinda,27/02/2025,Super prioridade,7
 3ª CCJ,0009374-09.2024.8.17.2990,Vara de Sucessões e Registros Públicos da Comarca de Olinda,27/02/2025,Sem prioridade,7
@@ -1215,7 +1218,7 @@ nucleo,processo,vara,data,prioridades,dias
 6ª CCJ,0000271-88.2019.8.17.3010,Vara Única da Comarca de Orocó,05/02/2025,Prioridade Legal,29
 7ª CC,0000581-21.2024.8.17.3010,Vara Única da Comarca de Orocó,04/03/2025,Prioridade Legal,2
 6ª CCJ,0000770-67.2022.8.17.3010,Vara Única da Comarca de Orocó,04/02/2025,Prioridade Legal,30
-7ª CC,0001116-47.2024.8.17.3010,Vara Única da Comarca de Orocó,26/02/2025,Prioridade Legal,7
+7ª CC,0001116-47.2024.8.17.3010,Vara Única da Comarca de Orocó,26/02/2025,Prioridade Legal,8
 7ª CC,0001118-17.2024.8.17.3010,Vara Única da Comarca de Orocó,27/02/2025,Prioridade Legal,7
 7ª CC,0001119-02.2024.8.17.3010,Vara Única da Comarca de Orocó,03/03/2025,Prioridade Legal,3
 7ª CC,0001120-84.2024.8.17.3010,Vara Única da Comarca de Orocó,03/03/2025,Prioridade Legal,3
@@ -1234,7 +1237,7 @@ nucleo,processo,vara,data,prioridades,dias
 5ª CC,0001556-81.2015.8.17.1030,1ª Vara Cível da Comarca de Palmares,27/02/2025,Super prioridade,6
 4ª CCJ,0002137-37.2020.8.17.3030,1ª Vara Cível da Comarca de Palmares,12/02/2025,Sem prioridade,22
 5ª CC,0002769-58.2023.8.17.3030,1ª Vara Cível da Comarca de Palmares,27/02/2025,Sem prioridade,7
-4ª CCJ,0002976-91.2022.8.17.3030,1ª Vara Cível da Comarca de Palmares,21/02/2025,Prioridade Legal,12
+4ª CCJ,0002976-91.2022.8.17.3030,1ª Vara Cível da Comarca de Palmares,21/02/2025,Prioridade Legal,13
 4ª CCJ,0002988-37.2024.8.17.3030,1ª Vara Cível da Comarca de Palmares,14/02/2025,Prioridade Legal,20
 4ª CCJ,0003202-62.2023.8.17.3030,1ª Vara Cível da Comarca de Palmares,18/02/2025,Sem prioridade,16
 4ª CCJ,0000032-08.2013.8.17.0840,2ª Vara Cível da Comarca de Palmares,27/02/2025,Sem prioridade,6
@@ -1272,6 +1275,7 @@ nucleo,processo,vara,data,prioridades,dias
 3ª CC,0028155-07.2023.8.17.3090,1ª Vara Cível da Comarca de Paulista,25/02/2025,Sem prioridade,9
 3ª CC,0031412-11.2021.8.17.3090,1ª Vara Cível da Comarca de Paulista,26/02/2025,Sem prioridade,8
 1ª CCJ,0068652-03.2021.8.17.2001,1ª Vara Cível da Comarca de Paulista,21/02/2025,Sem prioridade,13
+2ª CC,0000317-89.2020.8.17.0990,2ª Vara Criminal da Comarca de Paulista,06/03/2025,Sem prioridade,0
 2ª CC,0000607-41.2019.8.17.0990,2ª Vara Criminal da Comarca de Paulista,25/02/2025,Sem prioridade,9
 2ª CC,0000792-70.2019.8.17.1090,2ª Vara Criminal da Comarca de Paulista,28/02/2025,Sem prioridade,6
 2ª CC,0001128-09.2022.8.17.4990,2ª Vara Criminal da Comarca de Paulista,27/02/2025,Sem prioridade,7
@@ -1281,6 +1285,7 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CC,0003385-09.2018.8.17.1090,2ª Vara Criminal da Comarca de Paulista,27/02/2025,Sem prioridade,7
 2ª CC,0003671-89.2015.8.17.1090,2ª Vara Criminal da Comarca de Paulista,25/02/2025,Sem prioridade,9
 2ª CC,0004127-09.2022.8.17.3090,2ª Vara Criminal da Comarca de Paulista,27/02/2025,Sem prioridade,7
+2ª CC,0015413-47.2023.8.17.3090,2ª Vara Criminal da Comarca de Paulista,06/03/2025,Sem prioridade,0
 1ª CCJ,0000019-22.1982.8.17.1090,2ª Vara Cível da Comarca de Paulista,27/02/2025,Sem prioridade,7
 3ª CC,0000937-67.2024.8.17.3090,2ª Vara Cível da Comarca de Paulista,06/03/2025,Sem prioridade,0
 3ª CC,0002650-49.2013.8.17.1090,2ª Vara Cível da Comarca de Paulista,27/02/2025,Sem prioridade,7
@@ -1303,9 +1308,9 @@ nucleo,processo,vara,data,prioridades,dias
 3ª CC,0010915-68.2024.8.17.3090,3ª Vara Cível da Comarca de Paulista,25/02/2025,Sem prioridade,9
 3ª CC,0011688-16.2024.8.17.3090,3ª Vara Cível da Comarca de Paulista,25/02/2025,Sem prioridade,9
 1ª CCJ,0014147-25.2023.8.17.3090,3ª Vara Cível da Comarca de Paulista,04/02/2025,Sem prioridade,29
-1ª CCJ,0018548-72.2020.8.17.3090,3ª Vara Cível da Comarca de Paulista,04/02/2025,Sem prioridade,29
+1ª CCJ,0018548-72.2020.8.17.3090,3ª Vara Cível da Comarca de Paulista,04/02/2025,Sem prioridade,30
 1ª CCJ,0024049-02.2023.8.17.3090,3ª Vara Cível da Comarca de Paulista,20/02/2025,Prioridade Legal,14
-1ª CCJ,0024065-66.2016.8.17.2001,3ª Vara Cível da Comarca de Paulista,17/02/2025,Sem prioridade,16
+1ª CCJ,0024065-66.2016.8.17.2001,3ª Vara Cível da Comarca de Paulista,17/02/2025,Sem prioridade,17
 1ª CCJ,0025850-21.2021.8.17.3090,3ª Vara Cível da Comarca de Paulista,19/02/2025,Sem prioridade,15
 3ª CC,0030310-85.2020.8.17.3090,3ª Vara Cível da Comarca de Paulista,17/02/2025,Sem prioridade,17
 1ª CCJ,0009612-53.2023.8.17.3090,4ª Vara Cível da Comarca de Paulista,26/02/2025,Sem prioridade,8
@@ -1326,21 +1331,21 @@ nucleo,processo,vara,data,prioridades,dias
 6ª CC,0000443-76.2015.8.17.1100,Vara Única da Comarca de Pedra,21/02/2025,Sem prioridade,13
 6ª CC,0000666-96.2022.8.17.3100,Vara Única da Comarca de Pedra,21/02/2025,Sem prioridade,13
 6ª CC,0000041-73.2021.8.17.3140,1ª Vara Cível da Comarca de Pesqueira,26/02/2025,Prioridade Legal,8
-6ª CC,0000197-27.2022.8.17.3140,1ª Vara Cível da Comarca de Pesqueira,26/02/2025,Prioridade Legal,7
+6ª CC,0000197-27.2022.8.17.3140,1ª Vara Cível da Comarca de Pesqueira,26/02/2025,Prioridade Legal,8
 6ª CC,0000658-21.2024.8.17.3110,1ª Vara Cível da Comarca de Pesqueira,27/02/2025,Sem prioridade,7
 6ª CC,0000754-36.2024.8.17.3110,1ª Vara Cível da Comarca de Pesqueira,27/02/2025,Sem prioridade,7
 6ª CC,0001439-48.2021.8.17.3110,1ª Vara Cível da Comarca de Pesqueira,27/02/2025,Sem prioridade,7
 6ª CC,0001851-09.2014.8.17.1110,1ª Vara Cível da Comarca de Pesqueira,27/02/2025,Sem prioridade,7
-6ª CC,0002377-77.2020.8.17.3110,1ª Vara Cível da Comarca de Pesqueira,26/02/2025,Prioridade Legal,7
+6ª CC,0002377-77.2020.8.17.3110,1ª Vara Cível da Comarca de Pesqueira,26/02/2025,Prioridade Legal,8
 5ª CCJ,0002897-38.2011.8.17.1110,1ª Vara Cível da Comarca de Pesqueira,21/02/2025,Sem prioridade,13
-6ª CC,0003229-33.2022.8.17.3110,1ª Vara Cível da Comarca de Pesqueira,26/02/2025,Prioridade Legal,7
+6ª CC,0003229-33.2022.8.17.3110,1ª Vara Cível da Comarca de Pesqueira,26/02/2025,Prioridade Legal,8
 6ª CC,0004109-25.2022.8.17.3110,1ª Vara Cível da Comarca de Pesqueira,27/02/2025,Prioridade Legal,7
 6ª CC,0004491-18.2022.8.17.3110,1ª Vara Cível da Comarca de Pesqueira,27/02/2025,Sem prioridade,7
 6ª CC,0004648-54.2023.8.17.3110,1ª Vara Cível da Comarca de Pesqueira,27/02/2025,Prioridade Legal,7
 6ª CC,0005990-03.2023.8.17.3110,1ª Vara Cível da Comarca de Pesqueira,24/02/2025,Sem prioridade,10
 6ª CC,0006622-29.2023.8.17.3110,1ª Vara Cível da Comarca de Pesqueira,27/02/2025,Prioridade Legal,7
 6ª CC,0000060-45.2022.8.17.3140,2ª Vara Cível da Comarca de Pesqueira,24/02/2025,Sem prioridade,10
-5ª CCJ,0000073-08.2020.8.17.3110,2ª Vara Cível da Comarca de Pesqueira,17/02/2025,Sem prioridade,16
+5ª CCJ,0000073-08.2020.8.17.3110,2ª Vara Cível da Comarca de Pesqueira,17/02/2025,Sem prioridade,17
 6ª CC,0000099-98.2023.8.17.3110,2ª Vara Cível da Comarca de Pesqueira,24/02/2025,Prioridade Legal,10
 6ª CC,0000106-03.2017.8.17.3110,2ª Vara Cível da Comarca de Pesqueira,26/02/2025,Sem prioridade,8
 6ª CC,0000242-87.2023.8.17.3110,2ª Vara Cível da Comarca de Pesqueira,24/02/2025,Sem prioridade,10
@@ -1382,14 +1387,14 @@ nucleo,processo,vara,data,prioridades,dias
 6ª CC,0003947-30.2022.8.17.3110,2ª Vara Cível da Comarca de Pesqueira,23/02/2025,Sem prioridade,11
 6ª CC,0003979-31.2016.8.17.1110,2ª Vara Cível da Comarca de Pesqueira,24/02/2025,Sem prioridade,10
 6ª CC,0004269-84.2021.8.17.3110,2ª Vara Cível da Comarca de Pesqueira,24/02/2025,Sem prioridade,10
-6ª CC,0005916-46.2023.8.17.3110,2ª Vara Cível da Comarca de Pesqueira,25/02/2025,Sem prioridade,8
-6ª CC,0006165-94.2023.8.17.3110,2ª Vara Cível da Comarca de Pesqueira,25/02/2025,Prioridade Legal,8
+6ª CC,0005916-46.2023.8.17.3110,2ª Vara Cível da Comarca de Pesqueira,25/02/2025,Sem prioridade,9
+6ª CC,0006165-94.2023.8.17.3110,2ª Vara Cível da Comarca de Pesqueira,25/02/2025,Prioridade Legal,9
 2ª CC,0000503-69.2024.8.17.5130,1ª Vara Criminal da Comarca Petrolina,27/02/2025,Prioridade Legal,7
 3ª CC,0002903-76.2023.8.17.3130,1ª Vara Cível da Comarca de Petrolina,25/02/2025,Sem prioridade,9
 3ª CC,0008498-27.2021.8.17.3130,2ª Vara Cível da Comarca de Petrolina,25/02/2025,Sem prioridade,9
 3ª CC,0008502-35.2019.8.17.3130,2ª Vara Cível da Comarca de Petrolina,25/02/2025,Sem prioridade,9
 1ª CCJ,0011732-85.2019.8.17.3130,2ª Vara Cível da Comarca de Petrolina,21/02/2025,Sem prioridade,12
-3ª CC,0013610-40.2022.8.17.3130,2ª Vara Cível da Comarca de Petrolina,26/02/2025,Sem prioridade,7
+3ª CC,0013610-40.2022.8.17.3130,2ª Vara Cível da Comarca de Petrolina,26/02/2025,Sem prioridade,8
 3ª CC,0016515-18.2022.8.17.3130,2ª Vara Cível da Comarca de Petrolina,25/02/2025,Prioridade Legal,9
 3ª CC,0001152-30.2018.8.17.3130,2ª Vara de Família e Registro Civil da Comarca de Petrolina,19/02/2025,Sem prioridade,15
 3ª CC,0002146-82.2023.8.17.3130,2ª Vara de Família e Registro Civil da Comarca de Petrolina,17/02/2025,Sem prioridade,17
@@ -1411,7 +1416,7 @@ nucleo,processo,vara,data,prioridades,dias
 4ª CC,0000345-34.2023.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,26/02/2025,Sem prioridade,8
 4ª CC,0003098-32.2021.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,26/02/2025,Sem prioridade,8
 4ª CC,0003853-61.2018.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,24/02/2025,Sem prioridade,10
-4ª CC,0005204-98.2020.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,27/02/2025,Sem prioridade,6
+4ª CC,0005204-98.2020.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,27/02/2025,Sem prioridade,7
 4ª CC,0009293-28.2024.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,26/02/2025,Prioridade Legal,8
 4ª CC,0009670-67.2022.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,26/02/2025,Prioridade Legal,8
 4ª CC,0010248-35.2019.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,26/02/2025,Sem prioridade,8
@@ -1424,7 +1429,7 @@ nucleo,processo,vara,data,prioridades,dias
 4ª CC,0014123-08.2022.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,26/02/2025,Sem prioridade,8
 4ª CC,0016223-67.2021.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,26/02/2025,Sem prioridade,8
 4ª CC,0017861-04.2022.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,26/02/2025,Sem prioridade,8
-4ª CC,0018948-58.2023.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,27/02/2025,Prioridade Legal,6
+4ª CC,0018948-58.2023.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,27/02/2025,Prioridade Legal,7
 2ª CCJ,0020557-13.2022.8.17.3130,Vara da Fazenda Pública da Comarca de Petrolina,26/02/2025,Sem prioridade,8
 2ª CC,0000011-77.2024.8.17.5130,Vara de Violência Doméstica e Familiar Contra Mulher de Petrolina,24/02/2025,Sem prioridade,10
 2ª CC,0000164-20.2024.8.17.6130,Vara de Violência Doméstica e Familiar Contra Mulher de Petrolina,27/02/2025,Sem prioridade,7
@@ -1453,12 +1458,12 @@ nucleo,processo,vara,data,prioridades,dias
 6ª CCJ,0000110-11.2008.8.17.1120,2ª Vara da Comarca de Petrolândia,13/02/2025,Sem prioridade,21
 7ª CC,0000210-14.2018.8.17.1120,2ª Vara da Comarca de Petrolândia,20/02/2025,Sem prioridade,14
 ,0000218-95.2023.8.17.5620,2ª Vara da Comarca de Petrolândia,22/02/2025,Sem prioridade,11
-7ª CC,0000232-58.2013.8.17.1440,2ª Vara da Comarca de Petrolândia,26/02/2025,Sem prioridade,7
-7ª CC,0000297-42.2022.8.17.3120,2ª Vara da Comarca de Petrolândia,26/02/2025,Sem prioridade,7
+7ª CC,0000232-58.2013.8.17.1440,2ª Vara da Comarca de Petrolândia,26/02/2025,Sem prioridade,8
+7ª CC,0000297-42.2022.8.17.3120,2ª Vara da Comarca de Petrolândia,26/02/2025,Sem prioridade,8
 7ª CC,0000401-73.2018.8.17.3120,2ª Vara da Comarca de Petrolândia,26/02/2025,Sem prioridade,7
-7ª CC,0000636-64.2023.8.17.3120,2ª Vara da Comarca de Petrolândia,26/02/2025,Sem prioridade,7
-7ª CC,0000904-21.2023.8.17.3120,2ª Vara da Comarca de Petrolândia,25/02/2025,Sem prioridade,8
-7ª CC,0001413-79.2016.8.17.1120,2ª Vara da Comarca de Petrolândia,26/02/2025,Sem prioridade,7
+7ª CC,0000636-64.2023.8.17.3120,2ª Vara da Comarca de Petrolândia,26/02/2025,Sem prioridade,8
+7ª CC,0000904-21.2023.8.17.3120,2ª Vara da Comarca de Petrolândia,25/02/2025,Sem prioridade,9
+7ª CC,0001413-79.2016.8.17.1120,2ª Vara da Comarca de Petrolândia,26/02/2025,Sem prioridade,8
 6ª CCJ,0001620-82.2022.8.17.3120,2ª Vara da Comarca de Petrolândia,17/02/2025,Prioridade Legal,17
 7ª CC,0001831-50.2024.8.17.3120,2ª Vara da Comarca de Petrolândia,27/02/2025,Sem prioridade,7
 4ª CCJ,0000017-83.2019.8.17.3150,Vara Única da Comarca de Pombos,13/02/2025,Sem prioridade,21
@@ -1473,8 +1478,8 @@ nucleo,processo,vara,data,prioridades,dias
 4ª CCJ,0000844-56.2014.8.17.1150,Vara Única da Comarca de Pombos,06/02/2025,Sem prioridade,27
 4ª CCJ,0000952-85.2014.8.17.1150,Vara Única da Comarca de Pombos,20/02/2025,Sem prioridade,14
 5ª CC,0000061-24.2002.8.17.1170,Vara Única da Comarca de Quipapá,27/02/2025,Sem prioridade,6
-4ª CCJ,0000163-93.2021.8.17.3170,Vara Única da Comarca de Quipapá,11/02/2025,Prioridade Legal,22
-4ª CCJ,0000316-29.2021.8.17.3170,Vara Única da Comarca de Quipapá,13/02/2025,Prioridade Legal,20
+4ª CCJ,0000163-93.2021.8.17.3170,Vara Única da Comarca de Quipapá,11/02/2025,Prioridade Legal,23
+4ª CCJ,0000316-29.2021.8.17.3170,Vara Única da Comarca de Quipapá,13/02/2025,Prioridade Legal,21
 2ª CC,0003613-46.2022.8.17.5001,10ª Vara Criminal da Capital,01/03/2025,Sem prioridade,5
 3ª CCJ,0024566-83.2017.8.17.2001,10ª Vara de Família e Registro Civil da Capital,17/02/2025,Sem prioridade,16
 3ª CCJ,0039717-21.2019.8.17.2001,10ª Vara de Família e Registro Civil da Capital,18/02/2025,Sem prioridade,16
@@ -1483,7 +1488,7 @@ nucleo,processo,vara,data,prioridades,dias
 3ª CC,0074943-14.2024.8.17.2001,10ª Vara de Família e Registro Civil da Capital,26/02/2025,Prioridade Legal,8
 3ª CC,0132533-80.2023.8.17.2001,10ª Vara de Família e Registro Civil da Capital,25/02/2025,Sem prioridade,9
 3ª CC,0144977-14.2024.8.17.2001,10ª Vara de Família e Registro Civil da Capital,26/02/2025,Sem prioridade,8
-3ª CCJ,0047870-48.2016.8.17.2001,11ª Vara de Família e Registro Civil da Capital,26/02/2025,Sem prioridade,7
+3ª CCJ,0047870-48.2016.8.17.2001,11ª Vara de Família e Registro Civil da Capital,26/02/2025,Sem prioridade,8
 2ª CC,0000373-42.2022.8.17.4001,12ª Vara Criminal da Capital,27/02/2025,Prioridade Legal,6
 2ª CC,0001566-35.2020.8.17.0001,12ª Vara Criminal da Capital,24/02/2025,Sem prioridade,10
 2ª CC,0003976-03.2019.8.17.0001,12ª Vara Criminal da Capital,28/02/2025,Sem prioridade,6
@@ -1492,7 +1497,7 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CC,0001231-88.2024.8.17.2001,13ª Vara Criminal da Capital,24/02/2025,Sem prioridade,10
 3ª CC,0038259-27.2023.8.17.2001,13ª Vara de Família e Registro Civil da Capital,25/02/2025,Prioridade Legal,9
 3ª CCJ,0061577-05.2024.8.17.2001,13ª Vara de Família e Registro Civil da Capital,05/03/2025,Prioridade Legal,0
-2ª CC,0005619-93.2019.8.17.0001,14ª Vara Criminal da Capital,25/02/2025,Sem prioridade,8
+2ª CC,0005619-93.2019.8.17.0001,14ª Vara Criminal da Capital,25/02/2025,Sem prioridade,9
 2ª CC,0019947-96.2017.8.17.0001,14ª Vara Criminal da Capital,28/02/2025,Sem prioridade,6
 2ª CC,0032587-30.2000.8.17.0001,14ª Vara Criminal da Capital,27/02/2025,Sem prioridade,7
 3ª CC,0127295-80.2023.8.17.2001,14ª Vara de Família e Registro Civil da Capital,25/02/2025,Prioridade Legal,9
@@ -1503,12 +1508,12 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CC,0000329-86.2023.8.17.4001,17ª Vara Criminal da Capital,26/02/2025,Sem prioridade,8
 2ª CC,0001259-41.2022.8.17.4001,17ª Vara Criminal da Capital,24/02/2025,Sem prioridade,10
 2ª CC,0001395-67.2024.8.17.4001,17ª Vara Criminal da Capital,25/02/2025,Sem prioridade,9
-2ª CC,0001528-87.2022.8.17.5001,17ª Vara Criminal da Capital,26/02/2025,Sem prioridade,7
+2ª CC,0001528-87.2022.8.17.5001,17ª Vara Criminal da Capital,26/02/2025,Sem prioridade,8
 2ª CC,0003350-77.2023.8.17.5001,17ª Vara Criminal da Capital,27/02/2025,Prioridade Legal,7
 2ª CC,0004714-59.2017.8.17.0001,17ª Vara Criminal da Capital,26/02/2025,Sem prioridade,8
 2ª CC,0005164-65.2018.8.17.0001,17ª Vara Criminal da Capital,26/02/2025,Sem prioridade,8
 2ª CC,0006234-20.2018.8.17.0001,17ª Vara Criminal da Capital,24/02/2025,Sem prioridade,10
-2ª CC,0006633-11.2023.8.17.5001,17ª Vara Criminal da Capital,26/02/2025,Sem prioridade,7
+2ª CC,0006633-11.2023.8.17.5001,17ª Vara Criminal da Capital,26/02/2025,Sem prioridade,8
 2ª CC,0006808-72.2020.8.17.0001,17ª Vara Criminal da Capital,27/02/2025,Sem prioridade,7
 2ª CC,0008292-30.2017.8.17.0001,17ª Vara Criminal da Capital,24/02/2025,Sem prioridade,10
 2ª CC,0018392-10.2018.8.17.0001,17ª Vara Criminal da Capital,27/02/2025,Sem prioridade,7
@@ -1532,7 +1537,7 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CCJ,0019000-85.2019.8.17.2001,1ª Vara da Fazenda Pública da Capital,19/02/2025,Sem prioridade,15
 4ª CC,0019605-08.2005.8.17.0001,1ª Vara da Fazenda Pública da Capital,24/02/2025,Sem prioridade,10
 4ª CC,0022723-60.2003.8.17.0001,1ª Vara da Fazenda Pública da Capital,26/02/2025,Sem prioridade,7
-4ª CC,0028772-54.2002.8.17.0001,1ª Vara da Fazenda Pública da Capital,27/02/2025,Sem prioridade,6
+4ª CC,0028772-54.2002.8.17.0001,1ª Vara da Fazenda Pública da Capital,27/02/2025,Sem prioridade,7
 4ª CC,0031500-58.2008.8.17.0001,1ª Vara da Fazenda Pública da Capital,27/02/2025,Sem prioridade,7
 4ª CC,0041831-55.2015.8.17.0001,1ª Vara da Fazenda Pública da Capital,24/02/2025,Sem prioridade,10
 4ª CC,0044680-33.2023.8.17.2001,1ª Vara da Fazenda Pública da Capital,27/02/2025,Sem prioridade,7
@@ -1576,12 +1581,12 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CCJ,0057016-93.2023.8.17.8201,21º Juizado Especial Cível e das Relações de Consumo da Capital - Turno Manhã - 07:00h às 13:00h,12/02/2025,Prioridade Legal,22
 1ª CCJ,0057716-69.2023.8.17.8201,21º Juizado Especial Cível e das Relações de Consumo da Capital - Turno Manhã - 07:00h às 13:00h,17/02/2025,Sem prioridade,17
 1ª CCJ,0058002-47.2023.8.17.8201,25º Juizado Especial Cível e das Relações de Consumo da Capital - Turno Manhã - 07:00h às 13:00h,25/02/2025,Prioridade Legal,9
-2ª CC,0000937-66.2017.8.17.0001,2ª Vara Criminal da Capital,27/02/2025,Sem prioridade,6
+2ª CC,0000937-66.2017.8.17.0001,2ª Vara Criminal da Capital,27/02/2025,Sem prioridade,7
 2ª CC,0001123-51.2022.8.17.5001,2ª Vara Criminal da Capital,27/02/2025,Prioridade Legal,7
 2ª CC,0001390-86.2023.8.17.5001,2ª Vara Criminal da Capital,28/02/2025,Sem prioridade,6
 2ª CC,0008996-38.2020.8.17.0001,2ª Vara Criminal da Capital,28/02/2025,Sem prioridade,6
 2ª CC,0017817-65.2019.8.17.0001,2ª Vara Criminal da Capital,24/02/2025,Sem prioridade,10
-2ª CC,0141002-18.2023.8.17.2001,2ª Vara Criminal da Capital,25/02/2025,Sem prioridade,8
+2ª CC,0141002-18.2023.8.17.2001,2ª Vara Criminal da Capital,25/02/2025,Sem prioridade,9
 4ª CC,0061704-61.2003.8.17.0001,2ª Vara da Fazenda Pública da Capital,26/02/2025,Sem prioridade,8
 2ª CCJ,0068339-71.2023.8.17.2001,2ª Vara da Fazenda Pública da Capital,25/02/2025,Prioridade Legal,9
 2ª CCJ,0069017-86.2023.8.17.2001,2ª Vara da Fazenda Pública da Capital,19/02/2025,Prioridade Legal,15
@@ -1652,7 +1657,7 @@ nucleo,processo,vara,data,prioridades,dias
 4ª CC,0051940-06.2019.8.17.2001,4ª Vara da Fazenda Pública da Capital,26/02/2025,Sem prioridade,8
 4ª CC,0056432-37.2013.8.17.0001,4ª Vara da Fazenda Pública da Capital,21/02/2025,Sem prioridade,13
 4ª CC,0060601-38.2011.8.17.0001,4ª Vara da Fazenda Pública da Capital,21/02/2025,Sem prioridade,13
-3ª CCJ,0019073-28.2017.8.17.2001,4ª Vara de Família e Registro Civil da Capital,11/02/2025,Sem prioridade,22
+3ª CCJ,0019073-28.2017.8.17.2001,4ª Vara de Família e Registro Civil da Capital,11/02/2025,Sem prioridade,23
 3ª CCJ,0028423-69.2019.8.17.2001,4ª Vara de Família e Registro Civil da Capital,25/02/2025,Prioridade Legal,9
 3ª CCJ,0034821-37.2016.8.17.2001,4ª Vara de Família e Registro Civil da Capital,14/02/2025,Sem prioridade,20
 3ª CC,0107084-86.2024.8.17.2001,4ª Vara de Família e Registro Civil da Capital,27/02/2025,Sem prioridade,7
@@ -1676,7 +1681,7 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CCJ,0002619-71.2008.8.17.0001,5ª Vara da Fazenda Pública da Capital,21/02/2025,Sem prioridade,13
 4ª CC,0003203-78.2022.8.17.4001,5ª Vara da Fazenda Pública da Capital,27/02/2025,Prioridade Legal,7
 4ª CC,0012281-82.2022.8.17.2001,5ª Vara da Fazenda Pública da Capital,26/02/2025,Sem prioridade,8
-2ª CCJ,0014845-39.2019.8.17.2001,5ª Vara da Fazenda Pública da Capital,15/02/2025,Sem prioridade,18
+2ª CCJ,0014845-39.2019.8.17.2001,5ª Vara da Fazenda Pública da Capital,15/02/2025,Sem prioridade,19
 4ª CC,0021503-06.2024.8.17.2001,5ª Vara da Fazenda Pública da Capital,27/02/2025,Sem prioridade,7
 2ª CCJ,0022990-75.2016.8.17.0001,5ª Vara da Fazenda Pública da Capital,18/02/2025,Sem prioridade,16
 2ª CCJ,0023021-28.1998.8.17.0001,5ª Vara da Fazenda Pública da Capital,18/02/2025,Sem prioridade,16
@@ -1686,7 +1691,7 @@ nucleo,processo,vara,data,prioridades,dias
 4ª CC,0031152-74.2007.8.17.0001,5ª Vara da Fazenda Pública da Capital,27/02/2025,Sem prioridade,7
 4ª CC,0034008-55.2000.8.17.0001,5ª Vara da Fazenda Pública da Capital,26/02/2025,Sem prioridade,8
 4ª CC,0035598-17.2019.8.17.2001,5ª Vara da Fazenda Pública da Capital,25/02/2025,Sem prioridade,9
-4ª CC,0039578-98.2021.8.17.2001,5ª Vara da Fazenda Pública da Capital,28/02/2025,Sem prioridade,5
+4ª CC,0039578-98.2021.8.17.2001,5ª Vara da Fazenda Pública da Capital,28/02/2025,Sem prioridade,6
 4ª CC,0041967-61.2018.8.17.2001,5ª Vara da Fazenda Pública da Capital,22/02/2025,Sem prioridade,12
 4ª CC,0044400-28.2024.8.17.2001,5ª Vara da Fazenda Pública da Capital,26/02/2025,Sem prioridade,8
 4ª CC,0049341-21.2024.8.17.2001,5ª Vara da Fazenda Pública da Capital,27/02/2025,Sem prioridade,7
@@ -1723,7 +1728,7 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CC,0024120-32.2018.8.17.0001,7ª Vara Criminal da Capital,05/03/2025,Sem prioridade,0
 2ª CCJ,0037881-42.2021.8.17.2001,7ª Vara da Fazenda Pública da Capital,20/02/2025,Sem prioridade,14
 3ª CC,0003315-67.2021.8.17.2001,7ª Vara de Família e Registro Civil da Capital,25/02/2025,Prioridade Legal,9
-3ª CCJ,0020231-11.2023.8.17.2001,7ª Vara de Família e Registro Civil da Capital,13/02/2025,Prioridade Legal,20
+3ª CCJ,0020231-11.2023.8.17.2001,7ª Vara de Família e Registro Civil da Capital,13/02/2025,Prioridade Legal,21
 3ª CC,0139711-46.2024.8.17.2001,7ª Vara de Família e Registro Civil da Capital,27/02/2025,Prioridade Legal,7
 2ª CC,0005007-54.2023.8.17.5001,8ª Vara Criminal da Capital,24/02/2025,Sem prioridade,10
 2ª CC,0006027-80.2023.8.17.5001,8ª Vara Criminal da Capital,27/02/2025,Sem prioridade,7
@@ -1758,7 +1763,7 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CCJ,0104920-51.2024.8.17.2001,8ª Vara da Fazenda Pública da Capital,21/02/2025,Sem prioridade,13
 4ª CC,0109054-58.2023.8.17.2001,8ª Vara da Fazenda Pública da Capital,25/02/2025,Sem prioridade,9
 2ª CCJ,0112076-90.2024.8.17.2001,8ª Vara da Fazenda Pública da Capital,21/02/2025,Sem prioridade,13
-2ª CCJ,0112250-07.2021.8.17.2001,8ª Vara da Fazenda Pública da Capital,01/03/2025,Sem prioridade,4
+2ª CCJ,0112250-07.2021.8.17.2001,8ª Vara da Fazenda Pública da Capital,01/03/2025,Sem prioridade,5
 2ª CCJ,0112265-73.2021.8.17.2001,8ª Vara da Fazenda Pública da Capital,25/02/2025,Sem prioridade,9
 4ª CC,0122588-35.2024.8.17.2001,8ª Vara da Fazenda Pública da Capital,26/02/2025,Sem prioridade,8
 2ª CCJ,0137478-81.2021.8.17.2001,8ª Vara da Fazenda Pública da Capital,27/02/2025,Prioridade Legal,7
@@ -1777,12 +1782,12 @@ nucleo,processo,vara,data,prioridades,dias
 2ª CC,0090255-64.2023.8.17.2001,9ª Vara Criminal da Capital,27/02/2025,Sem prioridade,7
 3ª CC,0005957-81.2019.8.17.2001,9ª Vara de Família e Registro Civil da Capital,04/03/2025,Prioridade Legal,2
 3ª CC,0042041-18.2018.8.17.2001,9ª Vara de Família e Registro Civil da Capital,19/02/2025,Sem prioridade,15
-1ª CC,0003255-26.2023.8.17.2001,Seção A da 10ª Vara Cível da Capital,25/02/2025,Sem prioridade,8
+1ª CC,0003255-26.2023.8.17.2001,Seção A da 10ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0006854-51.2015.8.17.2001,Seção A da 10ª Vara Cível da Capital,21/02/2025,Sem prioridade,13
 1ª CC,0011743-14.2016.8.17.2001,Seção A da 10ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
 1ª CC,0015855-55.2018.8.17.2001,Seção A da 10ª Vara Cível da Capital,26/02/2025,Prioridade Legal,7
 1ª CC,0035809-69.2001.8.17.0001,Seção A da 10ª Vara Cível da Capital,21/02/2025,Sem prioridade,13
-1ª CCJ,0036045-97.2022.8.17.2001,Seção A da 10ª Vara Cível da Capital,24/02/2025,Prioridade Legal,9
+1ª CCJ,0036045-97.2022.8.17.2001,Seção A da 10ª Vara Cível da Capital,24/02/2025,Prioridade Legal,10
 1ª CC,0041685-13.2024.8.17.2001,Seção A da 10ª Vara Cível da Capital,20/02/2025,Sem prioridade,14
 1ª CC,0044355-58.2023.8.17.2001,Seção A da 10ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
 1ª CC,0052482-24.2019.8.17.2001,Seção A da 10ª Vara Cível da Capital,26/02/2025,Super prioridade,8
@@ -1811,7 +1816,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0060171-22.2019.8.17.2001,Seção A da 12ª Vara Cível da Capital,27/02/2025,Sem prioridade,6
 1ª CC,0068323-65.2007.8.17.0001,Seção A da 12ª Vara Cível da Capital,27/02/2025,Sem prioridade,6
 1ª CC,0103755-66.2024.8.17.2001,Seção A da 12ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
-1ª CC,0107204-32.2024.8.17.2001,Seção A da 12ª Vara Cível da Capital,20/02/2025,Prioridade Legal,13
+1ª CC,0107204-32.2024.8.17.2001,Seção A da 12ª Vara Cível da Capital,20/02/2025,Prioridade Legal,14
 1ª CC,0118860-83.2024.8.17.2001,Seção A da 12ª Vara Cível da Capital,20/02/2025,Prioridade Legal,14
 1ª CC,0142297-56.2024.8.17.2001,Seção A da 12ª Vara Cível da Capital,20/02/2025,Prioridade Legal,14
 1ª CC,0159882-58.2023.8.17.2001,Seção A da 12ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
@@ -1836,7 +1841,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0047077-08.2010.8.17.0001,Seção A da 14ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CC,0053802-71.2014.8.17.0001,Seção A da 14ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0075199-30.2019.8.17.2001,Seção A da 14ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
-1ª CC,0094776-87.2013.8.17.0001,Seção A da 14ª Vara Cível da Capital,21/02/2025,Sem prioridade,12
+1ª CC,0094776-87.2013.8.17.0001,Seção A da 14ª Vara Cível da Capital,21/02/2025,Sem prioridade,13
 1ª CC,0127976-26.2018.8.17.2001,Seção A da 14ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
 1ª CC,0147113-52.2022.8.17.2001,Seção A da 14ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
 1ª CC,0158306-30.2023.8.17.2001,Seção A da 14ª Vara Cível da Capital,27/02/2025,Super prioridade,7
@@ -1866,7 +1871,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0033017-59.2012.8.17.0001,Seção A da 16ª Vara Cível da Capital,14/02/2025,Sem prioridade,20
 1ª CC,0042382-34.2024.8.17.2001,Seção A da 16ª Vara Cível da Capital,20/02/2025,Prioridade Legal,13
 1ª CCJ,0044516-10.2019.8.17.2001,Seção A da 16ª Vara Cível da Capital,13/02/2025,Prioridade Legal,20
-1ª CCJ,0054609-61.2021.8.17.2001,Seção A da 16ª Vara Cível da Capital,25/02/2025,Sem prioridade,8
+1ª CCJ,0054609-61.2021.8.17.2001,Seção A da 16ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CCJ,0059392-28.2023.8.17.2001,Seção A da 16ª Vara Cível da Capital,21/02/2025,Sem prioridade,13
 1ª CC,0061561-90.2020.8.17.2001,Seção A da 16ª Vara Cível da Capital,14/02/2025,Sem prioridade,20
 1ª CC,0001484-18.2020.8.17.2001,Seção A da 17ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
@@ -1927,10 +1932,10 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CCJ,0142817-84.2022.8.17.2001,Seção A da 22ª Vara Cível da Capital,14/02/2025,Prioridade Legal,20
 1ª CC,0159906-23.2022.8.17.2001,Seção A da 22ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
 1ª CC,0008221-13.2015.8.17.2001,Seção A da 23ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
-1ª CCJ,0009013-12.1999.8.17.0001,Seção A da 23ª Vara Cível da Capital,10/02/2025,Sem prioridade,23
+1ª CCJ,0009013-12.1999.8.17.0001,Seção A da 23ª Vara Cível da Capital,10/02/2025,Sem prioridade,24
 1ª CC,0021230-33.2012.8.17.0001,Seção A da 23ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
 1ª CCJ,0026407-79.2018.8.17.2001,Seção A da 23ª Vara Cível da Capital,10/02/2025,Sem prioridade,24
-1ª CCJ,0029833-61.2013.8.17.0001,Seção A da 23ª Vara Cível da Capital,10/02/2025,Sem prioridade,23
+1ª CCJ,0029833-61.2013.8.17.0001,Seção A da 23ª Vara Cível da Capital,10/02/2025,Sem prioridade,24
 1ª CC,0034817-19.2024.8.17.2001,Seção A da 23ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0048916-63.2013.8.17.0001,Seção A da 23ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0071670-03.2019.8.17.2001,Seção A da 23ª Vara Cível da Capital,25/02/2025,Prioridade Legal,9
@@ -1978,7 +1983,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0094224-24.2022.8.17.2001,Seção A da 29ª Vara Cível da Capital,27/02/2025,Sem prioridade,7
 1ª CC,0103497-33.2010.8.17.0001,Seção A da 29ª Vara Cível da Capital,26/02/2025,Super prioridade,8
 1ª CC,0111138-66.2022.8.17.2001,Seção A da 29ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
-1ª CC,0115629-82.2023.8.17.2001,Seção A da 29ª Vara Cível da Capital,20/02/2025,Sem prioridade,13
+1ª CC,0115629-82.2023.8.17.2001,Seção A da 29ª Vara Cível da Capital,20/02/2025,Sem prioridade,14
 1ª CC,0128869-12.2021.8.17.2001,Seção A da 29ª Vara Cível da Capital,20/02/2025,Sem prioridade,14
 1ª CC,0138355-16.2024.8.17.2001,Seção A da 29ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CC,0157339-82.2023.8.17.2001,Seção A da 29ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
@@ -2009,7 +2014,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0061115-82.2023.8.17.2001,Seção A da 32ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
 1ª CC,0061284-74.2020.8.17.2001,Seção A da 32ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CC,0076312-14.2022.8.17.2001,Seção A da 32ª Vara Cível da Capital,14/02/2025,Sem prioridade,20
-1ª CC,0016890-74.2023.8.17.2001,Seção A da 33ª Vara Cível da Capital,24/02/2025,Sem prioridade,9
+1ª CC,0016890-74.2023.8.17.2001,Seção A da 33ª Vara Cível da Capital,24/02/2025,Sem prioridade,10
 1ª CC,0024479-54.2022.8.17.2001,Seção A da 33ª Vara Cível da Capital,20/02/2025,Prioridade Legal,14
 1ª CC,0038253-54.2022.8.17.2001,Seção A da 33ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0039975-94.2020.8.17.2001,Seção A da 33ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
@@ -2095,7 +2100,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0130148-28.2024.8.17.2001,Seção A da 6ª Vara Cível da Capital,22/02/2025,Sem prioridade,12
 1ª CC,0137217-48.2023.8.17.2001,Seção A da 6ª Vara Cível da Capital,27/02/2025,Sem prioridade,7
 1ª CC,0000865-49.2024.8.17.2001,Seção A da 7ª Vara Cível da Capital,26/02/2025,Prioridade Legal,8
-1ª CCJ,0001788-12.2023.8.17.2001,Seção A da 7ª Vara Cível da Capital,18/02/2025,Prioridade Legal,15
+1ª CCJ,0001788-12.2023.8.17.2001,Seção A da 7ª Vara Cível da Capital,18/02/2025,Prioridade Legal,16
 1ª CC,0014693-15.2024.8.17.2001,Seção A da 7ª Vara Cível da Capital,24/02/2025,Sem prioridade,10
 1ª CC,0024823-64.2024.8.17.2001,Seção A da 7ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0028422-50.2020.8.17.2001,Seção A da 7ª Vara Cível da Capital,20/02/2025,Sem prioridade,14
@@ -2152,12 +2157,12 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0032200-23.2023.8.17.2001,Seção B da 13ª Vara Cível da Capital,25/02/2025,Prioridade Legal,9
 1ª CC,0061963-35.2024.8.17.2001,Seção B da 13ª Vara Cível da Capital,26/02/2025,Prioridade Legal,8
 1ª CCJ,0156561-49.2022.8.17.2001,Seção B da 13ª Vara Cível da Capital,20/02/2025,Sem prioridade,14
-1ª CC,0001504-33.2025.8.17.2001,Seção B da 14ª Vara Cível da Capital,24/02/2025,Sem prioridade,9
+1ª CC,0001504-33.2025.8.17.2001,Seção B da 14ª Vara Cível da Capital,24/02/2025,Sem prioridade,10
 1ª CC,0009904-07.2023.8.17.2001,Seção B da 14ª Vara Cível da Capital,26/02/2025,Sem prioridade,7
 1ª CC,0016911-60.2017.8.17.2001,Seção B da 14ª Vara Cível da Capital,24/02/2025,Sem prioridade,10
 1ª CCJ,0016950-18.2021.8.17.2001,Seção B da 14ª Vara Cível da Capital,19/02/2025,Prioridade Legal,15
 1ª CCJ,0018884-40.2023.8.17.2001,Seção B da 14ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
-1ª CC,0030522-80.2017.8.17.2001,Seção B da 14ª Vara Cível da Capital,25/02/2025,Sem prioridade,8
+1ª CC,0030522-80.2017.8.17.2001,Seção B da 14ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0036791-91.2024.8.17.2001,Seção B da 14ª Vara Cível da Capital,20/02/2025,Sem prioridade,14
 1ª CC,0046550-26.2017.8.17.2001,Seção B da 14ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
 1ª CC,0065690-41.2020.8.17.2001,Seção B da 14ª Vara Cível da Capital,24/02/2025,Sem prioridade,10
@@ -2188,7 +2193,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0021447-70.2024.8.17.2001,Seção B da 16ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
 1ª CC,0039746-13.2015.8.17.2001,Seção B da 16ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
 1ª CCJ,0041251-24.2024.8.17.2001,Seção B da 16ª Vara Cível da Capital,04/02/2025,Sem prioridade,30
-1ª CC,0042116-23.2019.8.17.2001,Seção B da 16ª Vara Cível da Capital,24/02/2025,Sem prioridade,9
+1ª CC,0042116-23.2019.8.17.2001,Seção B da 16ª Vara Cível da Capital,24/02/2025,Sem prioridade,10
 1ª CCJ,0064931-72.2023.8.17.2001,Seção B da 16ª Vara Cível da Capital,25/02/2025,Prioridade Legal,9
 1ª CC,0066287-10.2020.8.17.2001,Seção B da 16ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
 1ª CC,0070334-56.2022.8.17.2001,Seção B da 16ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
@@ -2254,7 +2259,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0026599-02.2024.8.17.2001,Seção B da 25ª Vara Cível da Capital,25/02/2025,Prioridade Legal,9
 1ª CC,0031246-41.2015.8.17.0001,Seção B da 25ª Vara Cível da Capital,27/02/2025,Sem prioridade,7
 1ª CC,0054977-70.2021.8.17.2001,Seção B da 25ª Vara Cível da Capital,14/02/2025,Sem prioridade,20
-1ª CC,0079163-31.2019.8.17.2001,Seção B da 25ª Vara Cível da Capital,21/02/2025,Sem prioridade,12
+1ª CC,0079163-31.2019.8.17.2001,Seção B da 25ª Vara Cível da Capital,21/02/2025,Sem prioridade,13
 1ª CC,0094510-65.2023.8.17.2001,Seção B da 25ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CC,0158875-65.2022.8.17.2001,Seção B da 25ª Vara Cível da Capital,24/02/2025,Sem prioridade,10
 1ª CC,0025220-26.2024.8.17.2001,Seção B da 26ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
@@ -2263,7 +2268,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0073631-03.2024.8.17.2001,Seção B da 26ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CC,0073999-80.2022.8.17.2001,Seção B da 26ª Vara Cível da Capital,27/02/2025,Sem prioridade,7
 1ª CC,0096963-33.2023.8.17.2001,Seção B da 26ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
-1ª CC,0113885-52.2023.8.17.2001,Seção B da 26ª Vara Cível da Capital,27/02/2025,Prioridade Legal,6
+1ª CC,0113885-52.2023.8.17.2001,Seção B da 26ª Vara Cível da Capital,27/02/2025,Prioridade Legal,7
 1ª CC,0166701-45.2022.8.17.2001,Seção B da 26ª Vara Cível da Capital,21/02/2025,Sem prioridade,12
 1ª CC,0006285-40.2021.8.17.2001,Seção B da 27ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CC,0022837-75.2024.8.17.2001,Seção B da 27ª Vara Cível da Capital,20/02/2025,Sem prioridade,14
@@ -2276,7 +2281,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0092382-73.2014.8.17.0001,Seção B da 28ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CCJ,0101178-86.2022.8.17.2001,Seção B da 28ª Vara Cível da Capital,25/02/2025,Prioridade Legal,9
 1ª CC,0108292-08.2024.8.17.2001,Seção B da 28ª Vara Cível da Capital,25/02/2025,Prioridade Legal,9
-1ª CC,0121168-06.2009.8.17.0001,Seção B da 28ª Vara Cível da Capital,25/02/2025,Super prioridade,8
+1ª CC,0121168-06.2009.8.17.0001,Seção B da 28ª Vara Cível da Capital,25/02/2025,Super prioridade,9
 1ª CCJ,0002630-60.2021.8.17.2001,Seção B da 29ª Vara Cível da Capital,27/02/2025,Sem prioridade,7
 1ª CC,0005788-02.2016.8.17.2001,Seção B da 29ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CC,0010181-52.2025.8.17.2001,Seção B da 29ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
@@ -2291,7 +2296,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0033888-59.2019.8.17.2001,Seção B da 2ª Vara Cível da Capital,25/02/2025,Prioridade Legal,9
 1ª CC,0008384-12.2023.8.17.2001,Seção B da 30ª Vara Cível da Capital,14/02/2025,Sem prioridade,20
 1ª CC,0023300-18.2015.8.17.0001,Seção B da 30ª Vara Cível da Capital,21/02/2025,Sem prioridade,13
-1ª CC,0028046-31.2012.8.17.0001,Seção B da 30ª Vara Cível da Capital,27/02/2025,Super prioridade,6
+1ª CC,0028046-31.2012.8.17.0001,Seção B da 30ª Vara Cível da Capital,27/02/2025,Super prioridade,7
 1ª CC,0033028-82.2024.8.17.2001,Seção B da 30ª Vara Cível da Capital,25/02/2025,Super prioridade,9
 1ª CC,0044888-17.2023.8.17.2001,Seção B da 30ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0056130-07.2022.8.17.2001,Seção B da 30ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
@@ -2303,16 +2308,16 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CCJ,0023198-29.2023.8.17.2001,Seção B da 31ª Vara Cível da Capital,13/02/2025,Sem prioridade,21
 1ª CC,0076576-60.2024.8.17.2001,Seção B da 31ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
 1ª CCJ,0101387-55.2022.8.17.2001,Seção B da 31ª Vara Cível da Capital,24/02/2025,Sem prioridade,10
-1ª CC,0156571-59.2023.8.17.2001,Seção B da 31ª Vara Cível da Capital,25/02/2025,Super prioridade,8
+1ª CC,0156571-59.2023.8.17.2001,Seção B da 31ª Vara Cível da Capital,25/02/2025,Super prioridade,9
 1ª CC,0006495-28.2020.8.17.2001,Seção B da 32ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
 1ª CC,0016002-08.2023.8.17.2001,Seção B da 32ª Vara Cível da Capital,26/02/2025,Prioridade Legal,8
 1ª CCJ,0043197-12.2016.8.17.2001,Seção B da 32ª Vara Cível da Capital,11/02/2025,Prioridade Legal,23
 1ª CC,0047163-70.2022.8.17.2001,Seção B da 32ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CCJ,0066420-13.2024.8.17.2001,Seção B da 32ª Vara Cível da Capital,27/02/2025,Sem prioridade,7
-1ª CC,0073778-29.2024.8.17.2001,Seção B da 32ª Vara Cível da Capital,25/02/2025,Sem prioridade,8
+1ª CC,0073778-29.2024.8.17.2001,Seção B da 32ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0115374-90.2024.8.17.2001,Seção B da 32ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CC,0017346-05.2015.8.17.2001,Seção B da 33ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
-1ª CC,0048422-47.2015.8.17.2001,Seção B da 33ª Vara Cível da Capital,25/02/2025,Sem prioridade,8
+1ª CC,0048422-47.2015.8.17.2001,Seção B da 33ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0055895-74.2021.8.17.2001,Seção B da 33ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0076219-85.2021.8.17.2001,Seção B da 33ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
 1ª CC,0117295-89.2021.8.17.2001,Seção B da 33ª Vara Cível da Capital,24/02/2025,Sem prioridade,10
@@ -2337,22 +2342,22 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0002945-50.2016.8.17.0001,Seção B da 35ª Vara Cível da Capital,20/02/2025,Sem prioridade,14
 1ª CC,0002989-49.2017.8.17.2001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
 1ª CC,0004342-56.2019.8.17.2001,Seção B da 35ª Vara Cível da Capital,27/02/2025,Sem prioridade,6
-1ª CC,0004651-14.2018.8.17.2001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,16
-1ª CC,0005386-49.1989.8.17.0001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,16
+1ª CC,0004651-14.2018.8.17.2001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
+1ª CC,0005386-49.1989.8.17.0001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
 1ª CC,0008461-57.1993.8.17.0001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
 1ª CC,0011435-07.2018.8.17.2001,Seção B da 35ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
 1ª CC,0013100-21.1993.8.17.0001,Seção B da 35ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
-1ª CC,0014471-77.2017.8.17.0001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,16
+1ª CC,0014471-77.2017.8.17.0001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
 1ª CC,0024337-94.2015.8.17.2001,Seção B da 35ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
 1ª CC,0026885-24.2017.8.17.2001,Seção B da 35ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
 1ª CC,0033286-50.2002.8.17.0001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
 1ª CC,0034759-03.2004.8.17.0001,Seção B da 35ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0043611-26.1998.8.17.0001,Seção B da 35ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
-1ª CC,0049322-31.2006.8.17.0001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,16
+1ª CC,0049322-31.2006.8.17.0001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
 1ª CC,0051894-72.1997.8.17.0001,Seção B da 35ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
 1ª CC,0056052-43.2015.8.17.0001,Seção B da 35ª Vara Cível da Capital,27/02/2025,Sem prioridade,6
-1ª CC,0060774-95.2019.8.17.2001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,16
-1ª CC,0060933-39.2010.8.17.0001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,16
+1ª CC,0060774-95.2019.8.17.2001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
+1ª CC,0060933-39.2010.8.17.0001,Seção B da 35ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
 1ª CC,0069980-07.2017.8.17.2001,Seção B da 35ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
 1ª CC,0072830-59.2013.8.17.0001,Seção B da 35ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
 1ª CC,0086521-42.2022.8.17.2001,Seção B da 35ª Vara Cível da Capital,26/02/2025,Super prioridade,8
@@ -2366,7 +2371,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CCJ,0090986-94.2022.8.17.2001,Seção B da 36ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CC,0024394-78.2016.8.17.2001,Seção B da 3ª Vara Cível da Capital,27/02/2025,Super prioridade,6
 1ª CC,0025589-25.2021.8.17.2001,Seção B da 3ª Vara Cível da Capital,25/02/2025,Super prioridade,9
-1ª CC,0029535-35.2014.8.17.0001,Seção B da 3ª Vara Cível da Capital,19/02/2025,Sem prioridade,14
+1ª CC,0029535-35.2014.8.17.0001,Seção B da 3ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CC,0042945-28.2024.8.17.2001,Seção B da 3ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
 1ª CC,0059903-71.2007.8.17.0001,Seção B da 3ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0069088-93.2020.8.17.2001,Seção B da 3ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
@@ -2374,14 +2379,14 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0096450-31.2024.8.17.2001,Seção B da 3ª Vara Cível da Capital,25/02/2025,Prioridade Legal,9
 1ª CC,0004193-21.2023.8.17.2001,Seção B da 4ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CCJ,0008469-67.2012.8.17.0001,Seção B da 4ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
-1ª CC,0020908-13.2012.8.17.0001,Seção B da 4ª Vara Cível da Capital,25/02/2025,Sem prioridade,8
+1ª CC,0020908-13.2012.8.17.0001,Seção B da 4ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0032230-25.2015.8.17.0001,Seção B da 4ª Vara Cível da Capital,17/02/2025,Sem prioridade,17
 1ª CC,0035032-73.2016.8.17.2001,Seção B da 4ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CC,0088538-56.2019.8.17.2001,Seção B da 4ª Vara Cível da Capital,24/02/2025,Sem prioridade,9
-1ª CC,0133396-07.2021.8.17.2001,Seção B da 4ª Vara Cível da Capital,25/02/2025,Sem prioridade,8
+1ª CC,0133396-07.2021.8.17.2001,Seção B da 4ª Vara Cível da Capital,25/02/2025,Sem prioridade,9
 1ª CC,0136233-35.2021.8.17.2001,Seção B da 4ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
-1ª CC,0146200-36.2023.8.17.2001,Seção B da 4ª Vara Cível da Capital,27/02/2025,Prioridade Legal,6
-1ª CC,0187910-08.2012.8.17.0001,Seção B da 4ª Vara Cível da Capital,27/02/2025,Sem prioridade,6
+1ª CC,0146200-36.2023.8.17.2001,Seção B da 4ª Vara Cível da Capital,27/02/2025,Prioridade Legal,7
+1ª CC,0187910-08.2012.8.17.0001,Seção B da 4ª Vara Cível da Capital,27/02/2025,Sem prioridade,7
 1ª CC,0000830-07.2015.8.17.2001,Seção B da 5ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
 1ª CC,0109289-25.2023.8.17.2001,Seção B da 5ª Vara Cível da Capital,24/02/2025,Sem prioridade,10
 1ª CC,0131752-58.2023.8.17.2001,Seção B da 5ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
@@ -2395,7 +2400,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0075893-91.2022.8.17.2001,Seção B da 6ª Vara Cível da Capital,25/02/2025,Prioridade Legal,9
 1ª CC,0015759-40.2018.8.17.2001,Seção B da 7ª Vara Cível da Capital,19/02/2025,Sem prioridade,14
 1ª CC,0016286-26.2017.8.17.2001,Seção B da 7ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
-1ª CC,0017929-14.2020.8.17.2001,Seção B da 7ª Vara Cível da Capital,27/02/2025,Sem prioridade,6
+1ª CC,0017929-14.2020.8.17.2001,Seção B da 7ª Vara Cível da Capital,27/02/2025,Sem prioridade,7
 1ª CC,0023202-38.2012.8.17.0001,Seção B da 7ª Vara Cível da Capital,14/02/2025,Sem prioridade,20
 1ª CCJ,0025218-03.2017.8.17.2001,Seção B da 7ª Vara Cível da Capital,19/02/2025,Sem prioridade,15
 1ª CC,0055270-35.2024.8.17.2001,Seção B da 7ª Vara Cível da Capital,26/02/2025,Prioridade Legal,8
@@ -2411,7 +2416,7 @@ nucleo,processo,vara,data,prioridades,dias
 1ª CC,0068692-82.2021.8.17.2001,Seção B da 8ª Vara Cível da Capital,20/02/2025,Sem prioridade,14
 1ª CC,0076191-49.2023.8.17.2001,Seção B da 8ª Vara Cível da Capital,26/02/2025,Sem prioridade,8
 1ª CC,0077212-60.2023.8.17.2001,Seção B da 8ª Vara Cível da Capital,25/02/2025,Prioridade Legal,9
-1ª CC,0127435-91.2009.8.17.0001,Seção B da 8ª Vara Cível da Capital,27/02/2025,Sem prioridade,6
+1ª CC,0127435-91.2009.8.17.0001,Seção B da 8ª Vara Cível da Capital,27/02/2025,Sem prioridade,7
 1ª CC,0132755-48.2023.8.17.2001,Seção B da 8ª Vara Cível da Capital,19/02/2025,Sem prioridade,14
 1ª CC,0133723-78.2023.8.17.2001,Seção B da 8ª Vara Cível da Capital,21/02/2025,Sem prioridade,13
 1ª CC,0144528-56.2024.8.17.2001,Seção B da 8ª Vara Cível da Capital,18/02/2025,Sem prioridade,16
@@ -2429,7 +2434,7 @@ nucleo,processo,vara,data,prioridades,dias
 4ª CCJ,0000148-35.2019.8.17.3190,Vara Única da Comarca de Ribeirão,03/02/2025,Sem prioridade,31
 5ª CC,0000266-40.2021.8.17.3190,Vara Única da Comarca de Ribeirão,21/02/2025,Sem prioridade,13
 4ª CCJ,0000049-98.2020.8.17.3200,Vara Única da Comarca de Rio Formoso,13/02/2025,Sem prioridade,21
-4ª CCJ,0000114-12.2002.8.17.1200,Vara Única da Comarca de Rio Formoso,27/02/2025,Sem prioridade,6
+4ª CCJ,0000114-12.2002.8.17.1200,Vara Única da Comarca de Rio Formoso,27/02/2025,Sem prioridade,7
 5ª CC,0000218-90.2017.8.17.3200,Vara Única da Comarca de Rio Formoso,26/02/2025,Sem prioridade,8
 5ª CC,0000348-36.2024.8.17.3200,Vara Única da Comarca de Rio Formoso,25/02/2025,Prioridade Legal,9
 5ª CC,0000613-38.2024.8.17.3200,Vara Única da Comarca de Rio Formoso,24/02/2025,Sem prioridade,10
@@ -2467,7 +2472,7 @@ nucleo,processo,vara,data,prioridades,dias
 7ª CC,0002624-78.2015.8.17.1220,1ª Vara Cível da Comarca de Salgueiro,02/03/2025,Sem prioridade,4
 7ª CC,0002643-88.2021.8.17.3220,1ª Vara Cível da Comarca de Salgueiro,27/02/2025,Sem prioridade,7
 7ª CC,0002699-19.2024.8.17.3220,1ª Vara Cível da Comarca de Salgueiro,25/02/2025,Sem prioridade,8
-6ª CCJ,0002821-38.2012.8.17.1220,1ª Vara Cível da Comarca de Salgueiro,21/02/2025,Sem prioridade,12
+6ª CCJ,0002821-38.2012.8.17.1220,1ª Vara Cível da Comarca de Salgueiro,21/02/2025,Sem prioridade,13
 7ª CC,0002841-87.2016.8.17.1220,1ª Vara Cível da Comarca de Salgueiro,02/03/2025,Sem prioridade,4
 6ª CCJ,0002847-94.2016.8.17.1220,1ª Vara Cível da Comarca de Salgueiro,28/01/2025,Sem prioridade,37
 7ª CC,0002989-05.2022.8.17.3220,1ª Vara Cível da Comarca de Salgueiro,22/02/2025,Sem prioridade,12
@@ -2489,7 +2494,7 @@ nucleo,processo,vara,data,prioridades,dias
 7ª CC,0000113-39.2017.8.17.1220,2ª Vara Cível da Comarca de Salgueiro,24/02/2025,Sem prioridade,10
 7ª CC,0000153-21.2017.8.17.1220,2ª Vara Cível da Comarca de Salgueiro,28/02/2025,Sem prioridade,6
 6ª CCJ,0000165-39.2023.8.17.3220,2ª Vara Cível da Comarca de Salgueiro,26/02/2025,Sem prioridade,8
-7ª CC,0000344-70.2023.8.17.3220,2ª Vara Cível da Comarca de Salgueiro,26/02/2025,Prioridade Legal,7
+7ª CC,0000344-70.2023.8.17.3220,2ª Vara Cível da Comarca de Salgueiro,26/02/2025,Prioridade Legal,8
 6ª CCJ,0000489-69.2010.8.17.1220,2ª Vara Cível da Comarca de Salgueiro,03/02/2025,Sem prioridade,31
 6ª CCJ,0001354-92.2010.8.17.1220,2ª Vara Cível da Comarca de Salgueiro,25/02/2025,Sem prioridade,8
 7ª CC,0002366-72.2021.8.17.3220,2ª Vara Cível da Comarca de Salgueiro,20/02/2025,Sem prioridade,14
@@ -2513,7 +2518,7 @@ nucleo,processo,vara,data,prioridades,dias
 6ª CC,0000009-59.2021.8.17.3240,Vara Única da Comarca de Sanharó,26/02/2025,Prioridade Legal,8
 6ª CC,0000016-37.2021.8.17.1240,Vara Única da Comarca de Sanharó,24/02/2025,Sem prioridade,10
 6ª CC,0000018-17.2022.8.17.2260,Vara Única da Comarca de Sanharó,27/02/2025,Sem prioridade,7
-6ª CC,0000022-87.2023.8.17.3240,Vara Única da Comarca de Sanharó,27/02/2025,Prioridade Legal,6
+6ª CC,0000022-87.2023.8.17.3240,Vara Única da Comarca de Sanharó,27/02/2025,Prioridade Legal,7
 6ª CC,0000025-30.2018.8.17.3430,Vara Única da Comarca de Sanharó,27/02/2025,Sem prioridade,6
 6ª CC,0000077-78.2010.8.17.1240,Vara Única da Comarca de Sanharó,24/02/2025,Sem prioridade,10
 6ª CC,0000093-26.2022.8.17.3240,Vara Única da Comarca de Sanharó,27/02/2025,Sem prioridade,6
@@ -2522,11 +2527,11 @@ nucleo,processo,vara,data,prioridades,dias
 6ª CC,0000354-88.2022.8.17.3240,Vara Única da Comarca de Sanharó,27/02/2025,Sem prioridade,7
 6ª CC,0000411-48.2018.8.17.3240,Vara Única da Comarca de Sanharó,26/02/2025,Sem prioridade,8
 6ª CC,0000453-25.2014.8.17.1240,Vara Única da Comarca de Sanharó,20/02/2025,Sem prioridade,14
-6ª CC,0000498-33.2020.8.17.3240,Vara Única da Comarca de Sanharó,27/02/2025,Sem prioridade,6
+6ª CC,0000498-33.2020.8.17.3240,Vara Única da Comarca de Sanharó,27/02/2025,Sem prioridade,7
 6ª CC,0000583-48.2022.8.17.3240,Vara Única da Comarca de Sanharó,25/02/2025,Prioridade Legal,9
 6ª CC,0000663-41.2024.8.17.3240,Vara Única da Comarca de Sanharó,27/02/2025,Prioridade Legal,7
 6ª CC,0000700-39.2022.8.17.3240,Vara Única da Comarca de Sanharó,27/02/2025,Prioridade Legal,7
-6ª CC,0000937-10.2021.8.17.3240,Vara Única da Comarca de Sanharó,27/02/2025,Sem prioridade,6
+6ª CC,0000937-10.2021.8.17.3240,Vara Única da Comarca de Sanharó,27/02/2025,Sem prioridade,7
 6ª CC,0000954-41.2024.8.17.3240,Vara Única da Comarca de Sanharó,27/02/2025,Prioridade Legal,7
 6ª CC,0000960-19.2022.8.17.3240,Vara Única da Comarca de Sanharó,27/02/2025,Sem prioridade,7
 2ª CC,0000175-07.2023.8.17.5250,1ª Vara Criminal da Comarca de Santa Cruz do Capibaribe,25/02/2025,Sem prioridade,9
@@ -2565,16 +2570,16 @@ nucleo,processo,vara,data,prioridades,dias
 6ª CCJ,0000803-49.2019.8.17.3370,1ª Vara Cível da Comarca de Serra Talhada,17/02/2025,Sem prioridade,17
 6ª CCJ,0000895-27.2019.8.17.3370,1ª Vara Cível da Comarca de Serra Talhada,26/02/2025,Sem prioridade,8
 7ª CC,0001093-93.2021.8.17.3370,1ª Vara Cível da Comarca de Serra Talhada,26/02/2025,Sem prioridade,8
-6ª CCJ,0001353-10.2020.8.17.3370,1ª Vara Cível da Comarca de Serra Talhada,26/02/2025,Sem prioridade,7
+6ª CCJ,0001353-10.2020.8.17.3370,1ª Vara Cível da Comarca de Serra Talhada,26/02/2025,Sem prioridade,8
 7ª CC,0001956-83.2020.8.17.3370,1ª Vara Cível da Comarca de Serra Talhada,19/02/2025,Sem prioridade,15
 6ª CCJ,0002131-78.2011.8.17.1370,1ª Vara Cível da Comarca de Serra Talhada,24/02/2025,Sem prioridade,10
 7ª CC,0002334-74.2010.8.17.1370,1ª Vara Cível da Comarca de Serra Talhada,25/02/2025,Sem prioridade,9
 7ª CC,0002355-49.2019.8.17.3370,1ª Vara Cível da Comarca de Serra Talhada,19/02/2025,Sem prioridade,15
 7ª CC,0003612-36.2024.8.17.3370,1ª Vara Cível da Comarca de Serra Talhada,24/02/2025,Sem prioridade,10
-7ª CC,0003684-23.2024.8.17.3370,1ª Vara Cível da Comarca de Serra Talhada,27/02/2025,Sem prioridade,6
+7ª CC,0003684-23.2024.8.17.3370,1ª Vara Cível da Comarca de Serra Talhada,27/02/2025,Sem prioridade,7
 7ª CC,0005996-06.2023.8.17.3370,1ª Vara Cível da Comarca de Serra Talhada,27/02/2025,Prioridade Legal,7
 7ª CC,0006880-69.2022.8.17.3370,1ª Vara Cível da Comarca de Serra Talhada,27/02/2025,Prioridade Legal,7
-7ª CC,0000069-89.2016.8.17.1370,2ª Vara Cível e Regional da Infância e Juventude da Comarca de Serra Talhada,20/02/2025,Sem prioridade,13
+7ª CC,0000069-89.2016.8.17.1370,2ª Vara Cível e Regional da Infância e Juventude da Comarca de Serra Talhada,20/02/2025,Sem prioridade,14
 6ª CCJ,0000245-43.2020.8.17.3370,2ª Vara Cível e Regional da Infância e Juventude da Comarca de Serra Talhada,25/02/2025,Sem prioridade,9
 7ª CC,0000706-49.2019.8.17.3370,2ª Vara Cível e Regional da Infância e Juventude da Comarca de Serra Talhada,27/02/2025,Prioridade Legal,7
 7ª CC,0001503-25.2019.8.17.3370,2ª Vara Cível e Regional da Infância e Juventude da Comarca de Serra Talhada,27/02/2025,Prioridade Legal,7
@@ -2685,11 +2690,11 @@ nucleo,processo,vara,data,prioridades,dias
 4ª CCJ,0001401-97.2018.8.17.3350,3ª Vara Cível da Comarca de São Lourenço da Mata,19/02/2025,Sem prioridade,15
 4ª CCJ,0001895-49.2024.8.17.3350,3ª Vara Cível da Comarca de São Lourenço da Mata,21/02/2025,Sem prioridade,13
 4ª CCJ,0003408-86.2023.8.17.3350,3ª Vara Cível da Comarca de São Lourenço da Mata,27/02/2025,Sem prioridade,6
-7ª CC,0000057-22.2024.8.17.4110,Vara Única da Comarca de Tabira,20/02/2025,Sem prioridade,13
+7ª CC,0000057-22.2024.8.17.4110,Vara Única da Comarca de Tabira,20/02/2025,Sem prioridade,14
 6ª CCJ,0000105-53.2020.8.17.3420,Vara Única da Comarca de Tabira,27/02/2025,Sem prioridade,6
 7ª CC,0000164-70.2022.8.17.3420,Vara Única da Comarca de Tabira,26/02/2025,Sem prioridade,8
 6ª CCJ,0000278-14.2019.8.17.3420,Vara Única da Comarca de Tabira,24/02/2025,Prioridade Legal,10
-6ª CCJ,0000375-77.2020.8.17.3420,Vara Única da Comarca de Tabira,18/02/2025,Sem prioridade,15
+6ª CCJ,0000375-77.2020.8.17.3420,Vara Única da Comarca de Tabira,18/02/2025,Sem prioridade,16
 7ª CC,0000399-08.2020.8.17.3420,Vara Única da Comarca de Tabira,26/02/2025,Sem prioridade,8
 7ª CC,0000505-38.2018.8.17.3420,Vara Única da Comarca de Tabira,25/02/2025,Prioridade Legal,9
 7ª CC,0000608-69.2023.8.17.3420,Vara Única da Comarca de Tabira,25/02/2025,Sem prioridade,9
@@ -2716,15 +2721,15 @@ nucleo,processo,vara,data,prioridades,dias
 4ª CCJ,0000697-19.2017.8.17.3480,1ª Vara da Comarca de Timbaúba,27/02/2025,Sem prioridade,6
 4ª CCJ,0000761-63.2016.8.17.3480,1ª Vara da Comarca de Timbaúba,01/03/2025,Sem prioridade,5
 4ª CCJ,0001018-11.2015.8.17.1480,1ª Vara da Comarca de Timbaúba,14/02/2025,Sem prioridade,20
-5ª CC,0000136-74.2021.8.17.2600,2ª Vara da Comarca de Timbaúba,24/02/2025,Sem prioridade,9
+5ª CC,0000136-74.2021.8.17.2600,2ª Vara da Comarca de Timbaúba,24/02/2025,Sem prioridade,10
 4ª CCJ,0000206-12.2017.8.17.3480,2ª Vara da Comarca de Timbaúba,20/02/2025,Sem prioridade,14
 5ª CC,0000249-62.2020.8.17.2600,2ª Vara da Comarca de Timbaúba,24/02/2025,Prioridade Legal,10
 4ª CCJ,0000256-04.2018.8.17.3480,2ª Vara da Comarca de Timbaúba,24/02/2025,Sem prioridade,10
 5ª CC,0000263-20.2023.8.17.3480,2ª Vara da Comarca de Timbaúba,24/02/2025,Prioridade Legal,10
-5ª CC,0000306-12.2022.8.17.2600,2ª Vara da Comarca de Timbaúba,24/02/2025,Prioridade Legal,9
+5ª CC,0000306-12.2022.8.17.2600,2ª Vara da Comarca de Timbaúba,24/02/2025,Prioridade Legal,10
 4ª CCJ,0000405-29.2020.8.17.3480,2ª Vara da Comarca de Timbaúba,26/02/2025,Sem prioridade,8
 5ª CC,0000561-97.2015.8.17.0600,2ª Vara da Comarca de Timbaúba,24/02/2025,Sem prioridade,10
-4ª CCJ,0000672-35.2019.8.17.3480,2ª Vara da Comarca de Timbaúba,27/02/2025,Sem prioridade,6
+4ª CCJ,0000672-35.2019.8.17.3480,2ª Vara da Comarca de Timbaúba,27/02/2025,Sem prioridade,7
 4ª CCJ,0000893-13.2022.8.17.3480,2ª Vara da Comarca de Timbaúba,05/02/2025,Sem prioridade,29
 4ª CCJ,0000900-78.2017.8.17.3480,2ª Vara da Comarca de Timbaúba,07/02/2025,Sem prioridade,27
 5ª CC,0001262-70.2023.8.17.3480,2ª Vara da Comarca de Timbaúba,24/02/2025,Sem prioridade,10
@@ -2739,12 +2744,12 @@ nucleo,processo,vara,data,prioridades,dias
 6ª CC,0001708-43.2023.8.17.3490,Vara Única da Comarca de Toritama,26/02/2025,Sem prioridade,8
 4ª CCJ,0000119-25.2019.8.17.3500,Vara Única da Comarca de Tracunhaém,27/02/2025,Sem prioridade,7
 4ª CCJ,0000132-29.2016.8.17.3500,Vara Única da Comarca de Tracunhaém,25/02/2025,Sem prioridade,9
-4ª CCJ,0000137-03.2017.8.17.2470,Vara Única da Comarca de Tracunhaém,21/02/2025,Sem prioridade,12
+4ª CCJ,0000137-03.2017.8.17.2470,Vara Única da Comarca de Tracunhaém,21/02/2025,Sem prioridade,13
 4ª CCJ,0000183-40.2016.8.17.3500,Vara Única da Comarca de Tracunhaém,13/02/2025,Sem prioridade,21
 4ª CCJ,0000273-04.2023.8.17.3500,Vara Única da Comarca de Tracunhaém,17/02/2025,Prioridade Legal,17
-4ª CCJ,0000329-72.2013.8.17.1500,Vara Única da Comarca de Tracunhaém,10/02/2025,Sem prioridade,23
-4ª CCJ,0000339-19.2013.8.17.1500,Vara Única da Comarca de Tracunhaém,10/02/2025,Sem prioridade,23
-5ª CC,0000424-05.2013.8.17.1500,Vara Única da Comarca de Tracunhaém,26/02/2025,Sem prioridade,7
+4ª CCJ,0000329-72.2013.8.17.1500,Vara Única da Comarca de Tracunhaém,10/02/2025,Sem prioridade,24
+4ª CCJ,0000339-19.2013.8.17.1500,Vara Única da Comarca de Tracunhaém,10/02/2025,Sem prioridade,24
+5ª CC,0000424-05.2013.8.17.1500,Vara Única da Comarca de Tracunhaém,26/02/2025,Sem prioridade,8
 7ª CC,0001233-95.2021.8.17.3510,Vara Única da Comarca de Trindade,25/02/2025,Sem prioridade,9
 7ª CC,0000002-35.1974.8.17.1520,Vara Única da Comarca de Triunfo,24/02/2025,Sem prioridade,10
 7ª CC,0000038-79.2020.8.17.3520,Vara Única da Comarca de Triunfo,21/02/2025,Sem prioridade,13
@@ -2759,7 +2764,7 @@ nucleo,processo,vara,data,prioridades,dias
 7ª CC,0000241-36.2023.8.17.3520,Vara Única da Comarca de Triunfo,26/02/2025,Prioridade Legal,8
 7ª CC,0000249-81.2021.8.17.3520,Vara Única da Comarca de Triunfo,26/02/2025,Sem prioridade,8
 6ª CCJ,0000333-14.2023.8.17.3520,Vara Única da Comarca de Triunfo,21/02/2025,Prioridade Legal,13
-6ª CCJ,0000364-69.2013.8.17.1520,Vara Única da Comarca de Triunfo,21/02/2025,Sem prioridade,12
+6ª CCJ,0000364-69.2013.8.17.1520,Vara Única da Comarca de Triunfo,21/02/2025,Sem prioridade,13
 6ª CCJ,0000461-73.2019.8.17.3520,Vara Única da Comarca de Triunfo,25/02/2025,Sem prioridade,9
 6ª CCJ,0000462-58.2019.8.17.3520,Vara Única da Comarca de Triunfo,18/02/2025,Sem prioridade,16
 6ª CCJ,0000465-72.2014.8.17.1520,Vara Única da Comarca de Triunfo,17/02/2025,Sem prioridade,17
@@ -2800,9 +2805,9 @@ nucleo,processo,vara,data,prioridades,dias
 5ª CC,0001691-32.2022.8.17.3590,2ª Vara Cível da Comarca Vitória Santo Antão,25/02/2025,Sem prioridade,9
 4ª CCJ,0006023-47.2019.8.17.3590,2ª Vara Cível da Comarca Vitória Santo Antão,12/02/2025,Sem prioridade,22
 4ª CCJ,0000228-31.2017.8.17.3590,3ª Vara Cível da Comarca Vitória Santo Antão,05/02/2025,Sem prioridade,29
-4ª CCJ,0000837-43.2019.8.17.3590,3ª Vara Cível da Comarca Vitória Santo Antão,26/02/2025,Sem prioridade,7
+4ª CCJ,0000837-43.2019.8.17.3590,3ª Vara Cível da Comarca Vitória Santo Antão,26/02/2025,Sem prioridade,8
 4ª CCJ,0001308-54.2022.8.17.3590,3ª Vara Cível da Comarca Vitória Santo Antão,18/02/2025,Sem prioridade,16
-4ª CCJ,0001980-67.2019.8.17.3590,3ª Vara Cível da Comarca Vitória Santo Antão,26/02/2025,Sem prioridade,7
+4ª CCJ,0001980-67.2019.8.17.3590,3ª Vara Cível da Comarca Vitória Santo Antão,26/02/2025,Sem prioridade,8
 4ª CCJ,0002028-26.2019.8.17.3590,3ª Vara Cível da Comarca Vitória Santo Antão,14/02/2025,Sem prioridade,19
 4ª CCJ,0002259-44.2016.8.17.1590,3ª Vara Cível da Comarca Vitória Santo Antão,12/02/2025,Sem prioridade,22
 4ª CCJ,0002509-47.2023.8.17.3590,3ª Vara Cível da Comarca Vitória Santo Antão,11/02/2025,Sem prioridade,23
