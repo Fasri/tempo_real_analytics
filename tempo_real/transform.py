@@ -7,7 +7,7 @@ def transform_tempo_real():
     from datetime import datetime
 
     # Encontrar o arquivo mais recente na pasta
-    list_of_files = glob.glob('consolida_contadoria/data_tempo_real/*.xlsx')
+    list_of_files = glob.glob('C:\Users\lipea\Documents\Projetos\tempo_real\tempo_real\data\*.xlsx')
     file_path = max(list_of_files, key=os.path.getctime)
 
     # Carregar a planilha e excluir a primeira linha
@@ -114,15 +114,15 @@ def transform_tempo_real():
 
     # Criar um arquivo Excel com várias abas
     divided_file_path = 'final_tempo_real.xlsx'
-    destination_folder = r'data_transform'  # Caminho de destino
+    destination_folder = r'tempo_real'  # Caminho de destino
     destination_path = f"{destination_folder}\\{divided_file_path}"
 
    
     # Caminhos dos arquivos finais
     file_path_xlsx = 'Consolidado.xlsx'
     file_path_csv = 'Consolidado.csv'
-    destination_xlsx = 'data_transform/Consolidado.xlsx'
-    destination_csv = 'data_transform/Consolidado.csv'
+    destination_xlsx = 'tempo_real/Consolidado.xlsx'
+    destination_csv = 'tempo_real/Consolidado.csv'
 
     # Certifique-se de que o diretório de destino existe
     os.makedirs(os.path.dirname(destination_xlsx), exist_ok=True)

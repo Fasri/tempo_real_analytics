@@ -11,7 +11,7 @@ def extract_report_tempo_real():
     fp.add_argument("--headless") # executar sem o browser aparecer
     fp.set_preference("browser.download.folderList", 2)  # 2 indica uma pasta personalizada
     fp.set_preference("browser.download.manager.showWhenStarting", False)
-    fp.set_preference("browser.download.dir", r"C:\Users\lipea\Documents\contadoria\consolida_contadoria\data_tempo_real")  # Substitua pelo caminho da sua pasta
+    fp.set_preference("browser.download.dir", r"C:\Users\lipea\Documents\Projetos\tempo_real\tempo_real\data")  # Substitua pelo caminho da sua pasta
     fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/vnd.ms-excel")  # Tipo de arquivo XLS
 
     servico = Service(GeckoDriverManager().install())
