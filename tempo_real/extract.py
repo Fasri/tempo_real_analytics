@@ -4,14 +4,23 @@ def extract_report_tempo_real():
     from selenium import webdriver
     from webdriver_manager.firefox import GeckoDriverManager
     from selenium.webdriver.firefox.service import Service
+    from selenium.webdriver.support.ui import WebDriverWait
+    from selenium.webdriver.support import expected_conditions as EC
     from selenium.webdriver.firefox.options import Options
     from selenium.webdriver.common.by import By
-    fp = Options()
+    from dotenv import load_dotenv
+    import os
+    
+    # Carregar credenciais do .env
+    load_dotenv()
+    USUARIO = os.getenv("TJPE_USUARIO")
+    SENHA = os.getenv("TJPE_SENHA")
 
+    fp = Options()
     fp.add_argument("--headless") # executar sem o browser aparecer
     fp.set_preference("browser.download.folderList", 2)  # 2 indica uma pasta personalizada
     fp.set_preference("browser.download.manager.showWhenStarting", False)
-    fp.set_preference("browser.download.dir", r"C:\Users\lipea\Documents\Projetos\tempo_real\tempo_real\data")  # Substitua pelo caminho da sua pasta
+    fp.set_preference("browser.download.dir", os.getcwd())  # Salva na pasta do script
     fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/vnd.ms-excel")  # Tipo de arquivo XLS
 
     servico = Service(GeckoDriverManager().install())
@@ -20,14 +29,11 @@ def extract_report_tempo_real():
 
     navegador.get("https://www.tjpe.jus.br/tjpereports/xhtml/login.xhtml")
 
-    time.sleep(3)
-
-    navegador.find_element('xpath','//*[@id="j_id5:cpf"]').send_keys("06016077402")
-
-    navegador.find_element('xpath','/html/body/form/table/tbody/tr/td/table/tbody/tr[3]/td[2]/table/tbody/tr[2]/td[2]/input').send_keys("282309CiLuBi*")
-
-    navegador.find_element('xpath',
-                        '/html/body/form/table/tbody/tr/td/table/tbody/tr[3]/td[2]/table/tbody/tr[3]/td/input[1]').click()
+   # Aguardar o campo de CPF aparecer
+    wait = WebDriverWait(navegador, 10)
+    wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="j_id5:cpf"]'))).send_keys(USUARIO)
+    navegador.find_element(By.XPATH, '/html/body/form/table/tbody/tr/td/table/tbody/tr[3]/td[2]/table/tbody/tr[2]/td[2]/input').send_keys(SENHA)
+    navegador.find_element(By.XPATH, '/html/body/form/table/tbody/tr/td/table/tbody/tr[3]/td[2]/table/tbody/tr[3]/td/input[1]').click()
 
     time.sleep(10)
     navegador.find_element('xpath', '/html/body/div/div/div/div/div[9]/div/form/div[2]/div[2]/table/tbody/tr[1]/td[2]/input').send_keys("PJe 1º Grau | Acervo em Tramitação em tempo real d")
@@ -47,6 +53,6 @@ def extract_report_tempo_real():
 
     navegador.find_element('xpath', '//*[@id="filtroRelatorioForm:btnExportarXlsx"]').click()
 
-    time.sleep(80)
+    time.sleep(50)
 
     navegador.close()

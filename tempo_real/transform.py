@@ -7,8 +7,25 @@ def transform_tempo_real():
     from datetime import datetime
 
     # Encontrar o arquivo mais recente na pasta
-    list_of_files = glob.glob(r'C:\Users\lipea\Documents\Projetos\tempo_real\tempo_real\data\*.xlsx')
-    file_path = max(list_of_files, key=os.path.getctime)
+   
+
+    # Definir o caminho da pasta de dados dentro do container
+    data_folder = os.path.join(os.getcwd(), "data")
+
+    # Garantir que a pasta existe
+    if not os.path.exists(data_folder):
+        os.makedirs(data_folder)
+
+    # Buscar os arquivos dentro da pasta correta
+    list_of_files = glob.glob(os.path.join(data_folder, "*.xlsx"))
+
+    # Garantir que há arquivos na pasta antes de tentar pegar o mais recente
+    if list_of_files:
+        file_path = max(list_of_files, key=os.path.getctime)
+    else:
+        raise FileNotFoundError("Nenhum arquivo .xlsx encontrado na pasta de dados!")
+
+   
 
     # Carregar a planilha e excluir a primeira linha
     df = pd.read_excel(file_path)
@@ -114,15 +131,15 @@ def transform_tempo_real():
 
     # Criar um arquivo Excel com várias abas
     divided_file_path = 'final_tempo_real.xlsx'
-    destination_folder = r'tempo_real'  # Caminho de destino
+    destination_folder = 'final_tempo_real.xlsx' # Caminho de destino
     destination_path = f"{destination_folder}\\{divided_file_path}"
 
    
     # Caminhos dos arquivos finais
     file_path_xlsx = 'Consolidado.xlsx'
     file_path_csv = 'Consolidado.csv'
-    destination_xlsx = 'tempo_real/Consolidado.xlsx'
-    destination_csv = 'tempo_real/Consolidado.csv'
+    destination_xlsx = 'Consolidado.xlsx'
+    destination_csv = 'Consolidado.csv'
 
     # Certifique-se de que o diretório de destino existe
     os.makedirs(os.path.dirname(destination_xlsx), exist_ok=True)
