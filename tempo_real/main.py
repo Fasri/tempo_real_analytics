@@ -4,17 +4,16 @@ from transform import transform_tempo_real
 import os
 
 def main():
-    st.title("Executar Processos com um Clique 🚀")
+    st.title("Tempo Real Analytics – Extração e processamento de relatórios em tempo real 🚀")
 
     if st.button("Executar Pipeline"):
         st.write("Iniciando extração de dados...")
         extract_report_tempo_real()
         st.write("Transformação em andamento...")
-        transform_tempo_real()
+        file_path = transform_tempo_real()
         st.write("Processo concluído com sucesso! ✅")
 
         # Verifica se o arquivo final_tempo_real.xlsx foi gerado
-        file_path = "tempo_real/final_tempo_real.xlsx"
         if os.path.exists(file_path):
             with open(file_path, "rb") as file:
                 btn = st.download_button(

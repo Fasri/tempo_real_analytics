@@ -135,29 +135,7 @@ def transform_tempo_real():
     destination_path = f"{destination_folder}\\{divided_file_path}"
 
    
-    # Caminhos dos arquivos finais
-    file_path_xlsx = 'Consolidado.xlsx'
-    file_path_csv = 'Consolidado.csv'
-    destination_xlsx = 'Consolidado.xlsx'
-    destination_csv = 'Consolidado.csv'
-
-    # Certifique-se de que o diretório de destino existe
-    os.makedirs(os.path.dirname(destination_xlsx), exist_ok=True)
- 
-    # Criar e salvar o arquivo Excel
-    with pd.ExcelWriter(file_path_xlsx) as writer:
-        consolidado.to_excel(writer, sheet_name='CONSOLIDADO', index=False)
-
-    # Salvar o arquivo CSV
-    consolidado.to_csv(file_path_csv, index=False, encoding='utf-8')
-
-    # Mover os arquivos para o destino
-    shutil.move(file_path_xlsx, destination_xlsx)
-    shutil.move(file_path_csv, destination_csv)
-
-    print(f'Arquivos copiados para {destination_xlsx} e {destination_csv}') 
-
-
+    
    
     with pd.ExcelWriter(divided_file_path) as writer:
         for nucleo in nucleos:
@@ -174,12 +152,10 @@ def transform_tempo_real():
         # Adicionar a aba 'quantidade'
         quantidade_processos.to_excel(writer, sheet_name='QUANTIDADE', index=False)
         consolidado.to_excel(writer, sheet_name='CONSOLIDADO', index=False)
+   
     # excluir a planilha principal 
     os.remove(file_path)
-    #shutil.move(file_path, '/home/felipe/acompamhamento_contadoria/acompamhamento_contadoria/data_backup/' + os.path.basename(file_path))
-    # Mover a planilha dividida para a pasta data_transform
-
-    shutil.move(divided_file_path,destination_path)
 
     # Mensagem de sucesso
     print(f"A tabela modificada foi salva como {divided_file_path}")
+    return divided_file_path

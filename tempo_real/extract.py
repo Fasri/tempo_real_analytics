@@ -16,11 +16,18 @@ def extract_report_tempo_real():
     USUARIO = os.getenv("TJPE_USUARIO")
     SENHA = os.getenv("TJPE_SENHA")
 
+    # Definir a pasta de downloads dentro do diretório do projeto
+    download_dir = os.path.join(os.getcwd(), "data")
+
+    # Garantir que a pasta existe
+    if not os.path.exists(download_dir):
+        os.makedirs(download_dir)
+
     fp = Options()
     fp.add_argument("--headless") # executar sem o browser aparecer
     fp.set_preference("browser.download.folderList", 2)  # 2 indica uma pasta personalizada
     fp.set_preference("browser.download.manager.showWhenStarting", False)
-    fp.set_preference("browser.download.dir", os.getcwd())  # Salva na pasta do script
+    fp.set_preference("browser.download.dir", download_dir)  # Substitua pelo caminho da sua pasta
     fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/vnd.ms-excel")  # Tipo de arquivo XLS
 
     servico = Service(GeckoDriverManager().install())
@@ -53,6 +60,6 @@ def extract_report_tempo_real():
 
     navegador.find_element('xpath', '//*[@id="filtroRelatorioForm:btnExportarXlsx"]').click()
 
-    time.sleep(50)
+    time.sleep(80)
 
     navegador.close()
