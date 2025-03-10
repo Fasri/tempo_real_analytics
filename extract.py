@@ -1,4 +1,4 @@
-def extract_report_tempo_real():
+def extract_report_tempo_real(usuario, senha):
     import time
     
     from selenium import webdriver
@@ -12,9 +12,9 @@ def extract_report_tempo_real():
     import os
     
     # Carregar credenciais do .env
-    load_dotenv()
-    USUARIO = os.getenv("TJPE_USUARIO")
-    SENHA = os.getenv("TJPE_SENHA")
+   
+    USUARIO = usuario
+    SENHA = senha
 
     # Definir a pasta de downloads dentro do diretório do projeto
     download_dir = os.path.join(os.getcwd(), "data")

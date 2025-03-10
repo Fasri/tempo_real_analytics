@@ -6,9 +6,12 @@ import os
 def main():
     st.title("Tempo Real Analytics – Extração e processamento de relatórios em tempo real 🚀")
 
+    usuario = st.text_input("Digite seu CPf: " ,value="", type='default')
+    senha = st.text_input("Digite sua senha: ", value="", type='password')
+
     if st.button("Executar Pipeline"):
         st.write("Iniciando extração de dados...")
-        extract_report_tempo_real()
+        extract_report_tempo_real(usuario, senha)
         st.write("Transformação em andamento...")
         file_path = transform_tempo_real()
         st.write("Processo concluído com sucesso! ✅")
