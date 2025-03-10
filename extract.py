@@ -12,7 +12,7 @@ def extract_report_tempo_real(usuario, senha):
     import os
     
     # Carregar credenciais do .env
-   
+    github_token = os.getenv("GITHUB_TOKEN")
     USUARIO = usuario
     SENHA = senha
 
@@ -30,7 +30,7 @@ def extract_report_tempo_real(usuario, senha):
     fp.set_preference("browser.download.dir", download_dir)  # Substitua pelo caminho da sua pasta
     fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/vnd.ms-excel")  # Tipo de arquivo XLS
 
-    servico = Service(GeckoDriverManager().install())
+    servico = Service(GeckoDriverManager().install(), auth=(github_token, ""))
 
     navegador = webdriver.Firefox(options=fp,service=servico)
 
