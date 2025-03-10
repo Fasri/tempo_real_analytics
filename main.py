@@ -6,8 +6,8 @@ import os
 def main():
     st.title("Tempo Real Analytics – Extração e processamento de relatórios em tempo real 🚀")
 
-    usuario = st.text_input("Digite seu CPf: " ,value="", type='default')
-    senha = st.text_input("Digite sua senha: ", value="", type='password')
+    usuario = st.text_input("Digite seu CPF: " ,value="", type='default')
+    senha = st.text_input("Digite sua senha do TJPE: ", value="", type='password')
 
     if st.button("Executar Pipeline"):
         st.write("Iniciando extração de dados...")
